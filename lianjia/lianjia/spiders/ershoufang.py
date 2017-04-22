@@ -1,20 +1,19 @@
 # -*- coding: utf-8 -*-
 import sys
-reload(sys)
-sys.setdefaultencoding("utf-8")
 import scrapy
 from lxml import etree
 import json
 import re
 import time
 import math
+import os
 from ..items import LianjiaItem
 
 
 
 class ErshoufangSpider(scrapy.Spider):
     name = "ershoufang"
-    cityDomain = "qd"
+    cityDomain = "jn"
     allowed_domains = [cityDomain + ".lianjia.com"]
     user_agent = 'Mozil data-role="ershoufang"la/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
     headers = {'User-Agent': user_agent}
@@ -84,6 +83,15 @@ class ErshoufangSpider(scrapy.Spider):
             url = ('http://' + self.cityDomain + '.lianjia.com/ershoufang/{}/pg{}/').format(response.meta["areaPinyin"],str(i))
             yield scrapy.Request(url=url, headers=self.headers, callback=self.areaParse, meta={"areaHanzi":areaHanzi,"areaPinyin":areaPinyin} )
     def closed(self, reason):
+        path = os.path.dirname(os.path.abspath(__file__))
+        if os.path.isdir(path):
+            jsonFileWiriteDir = path
+        elif os.path.isfile(path):
+            jsonFileWiriteDir = os.path.dirname(path)
+        jsonFileWiriteDir = jsonFileWiriteDir + '/../../../scrapy-data/raw/'
+        if (not os.path.isdir(jsonFileWiriteDir)):
+            os.mkdir(jsonFileWiriteDir)
+        os.chdir(jsonFileWiriteDir)
         self.allHouseData['houseDict'] = self.houseDict
-        with open(time.strftime("%Y-%m-%d", time.localtime()) + '.' + self.cityDomain + '.json', 'wb') as json_file:
+        with open(jsonFileWiriteDir + time.strftime("%Y-%m-%d", time.localtime()) + '.' + self.cityDomain + '.json', 'wb') as json_file:
             json_file.write(json.dumps(self.allHouseData, indent=4, sort_keys=False, ensure_ascii=False))
