@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import sys
 import scrapy
-from lxml import etree
 import json
 import re
 import time
@@ -13,7 +12,7 @@ from ..items import LianjiaItem
 
 class ErshoufangSpider(scrapy.Spider):
     name = "ershoufang"
-    cityDomain = "jn"
+    cityDomain = "qd"
     allowed_domains = [cityDomain + ".lianjia.com"]
     user_agent = 'Mozil data-role="ershoufang"la/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
     headers = {'User-Agent': user_agent}
