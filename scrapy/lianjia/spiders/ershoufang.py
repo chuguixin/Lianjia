@@ -6,7 +6,6 @@ import re
 import time
 import math
 import os
-from ..items import LianjiaItem
 
 
 
