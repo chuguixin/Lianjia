@@ -17,16 +17,20 @@ for key,value in houseDealData['areaDealData']['huangdao'].items():
         monthData[month] = {
             'houseAreaCount': 0.0,
             'priceCount': 0.0,
-            'houseCount': 0
+            'houseCount': 0,
+            'unitPriceCount': 0.0
         }
     for dealValue in value:
         monthData[month]['houseAreaCount'] = monthData[month]['houseAreaCount'] + dealValue['houseAreaCount'];
         monthData[month]['priceCount'] = monthData[month]['priceCount'] + dealValue['price'];
         monthData[month]['houseCount'] = monthData[month]['houseCount'] + 1;
+        monthData[month]['unitPriceCount'] = monthData[month]['unitPriceCount'] + dealValue['unitPrice'];
 
 resultData = {}
 for key,value in monthData.items():
-    resultData[key] = round(value['priceCount']/value['houseAreaCount'], 2)
+    if (int(key[0:4]) < 2015):
+        continue
+    resultData[key] = round(value['unitPriceCount']/(value['houseCount']*10000), 2)
 
 
 resultDataItems = resultData.items()

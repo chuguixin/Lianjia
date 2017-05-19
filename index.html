@@ -4,21 +4,22 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>chuguixin/Lianjia: When and where to buy a house?</title>
+    <title>When and where to buy a house?</title>
     <meta name="description" content="Lianjia - When and where to buy a house?">
 </head>
 
 <body>
-    When and where to buy a house?
     <script src="https://cdn.bootcss.com/echarts/3.5.3/echarts.min.js"></script>
     <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
     <div id="all_deal_area_count" style="width:100%;height:600px;"></div>
     <div id="all_deal_house_count" style="width:100%;height:600px;"></div>
     <div id="all_deal_unit_price_count" style="width:100%;height:600px;"></div>
+    <div id="all_deal_unit_price_count2" style="width:100%;height:600px;"></div>
     <script type="text/javascript">
     var allAreaChart = echarts.init(document.getElementById('all_deal_area_count'));
     var allHouseChart = echarts.init(document.getElementById('all_deal_house_count'));
     var allHouseUnitPriceChart = echarts.init(document.getElementById('all_deal_unit_price_count'));
+    var allHouseUnitPriceChart2 = echarts.init(document.getElementById('all_deal_unit_price_count2'));
 
     var allDealOption = {
         title: {
@@ -310,7 +311,7 @@
 
     var unitPriceOption = {
         title: {
-            text: '区域价格堆叠'
+            text: '单价（计算公式：所有房子的单价/房子总数）'
         },
         tooltip: {
             trigger: 'axis',
@@ -322,7 +323,7 @@
             }
         },
         legend: {
-            data: ['市南', '市北']
+            data: ['市南', '崂山', '李沧', '黄岛']
         },
         toolbox: {
             feature: {
@@ -339,31 +340,6 @@
             type: 'category',
             boundaryGap: false,
             data: [
-                "2012.12",
-                "2013.01",
-                "2013.02",
-                "2013.03",
-                "2013.04",
-                "2013.05",
-                "2013.06",
-                "2013.07",
-                "2013.08",
-                "2013.09",
-                "2013.10",
-                "2013.11",
-                "2013.12",
-                "2014.01",
-                "2014.02",
-                "2014.03",
-                "2014.04",
-                "2014.05",
-                "2014.06",
-                "2014.07",
-                "2014.08",
-                "2014.09",
-                "2014.10",
-                "2014.11",
-                "2014.12",
                 "2015.01",
                 "2015.02",
                 "2015.03",
@@ -401,35 +377,218 @@
         series: [{
             name: '市南',
             type: 'line',
-            stack: '单价',
-            areaStyle: {
-                normal: {}
-            },
+            stack: '1',
+            areaStyle: {},
             data: [
-                1.71,
-                2.07,
-                1.92,
-                1.64,
-                1.64,
-                2.12,
-                1.79,
-                1.84,
+                1.62,
                 1.63,
-                1.66,
-                1.92,
-                1.65,
-                1.63,
-                1.7,
-                1.81,
-                2.01,
-                1.64,
-                1.85,
-                0.26,
-                2.0,
-                1.53,
-                1.77,
-                1.9,
+                1.68,
+                1.73,
+                1.74,
+                1.78,
                 1.72,
+                1.76,
+                1.68,
+                1.71,
+                1.88,
+                1.9,
+                1.78,
+                1.67,
+                1.79,
+                1.93,
+                1.93,
+                1.79,
+                1.88,
+                1.92,
+                1.97,
+                1.92,
+                2.11,
+                1.95,
+                2.09,
+                2.24,
+                2.35,
+                2.56,
+                2.55
+            ]
+        }, {
+            name: '崂山',
+            type: 'line',
+            stack: '2',
+            areaStyle: {},
+            data: [
+                1.69,
+                1.6,
+                1.67,
+                1.82,
+                1.72,
+                1.94,
+                1.96,
+                1.75,
+                1.82,
+                1.95,
+                1.87,
+                1.78,
+                1.81,
+                1.79,
+                1.93,
+                1.94,
+                2.08,
+                2.07,
+                1.96,
+                2.01,
+                2.14,
+                2.21,
+                2.21,
+                2.39,
+                2.38,
+                2.51,
+                2.67,
+                2.77,
+                2.67
+            ]
+        }, {
+            name: '李沧',
+            type: 'line',
+            stack: '3',
+            areaStyle: {},
+            data: [
+                1.04,
+                1.12,
+                1.06,
+                1.04,
+                1.07,
+                1.07,
+                1.06,
+                1.06,
+                1.05,
+                1.06,
+                1.1,
+                1.05,
+                1.09,
+                1.05,
+                1.1,
+                1.36,
+                1.14,
+                1.14,
+                1.24,
+                1.25,
+                1.27,
+                1.32,
+                1.4,
+                1.47,
+                1.5,
+                1.58,
+                1.8,
+                1.88,
+                1.81
+            ]
+        }, {
+            name: '黄岛',
+            type: 'line',
+            stack: '4',
+            areaStyle: {},
+            data: [
+                null,
+                null,
+                null,
+                null, null, null, null,
+                0.75,
+                0.79,
+                0.86,
+                0.78,
+                0.81,
+                0.84,
+                0.8,
+                0.85,
+                0.87,
+                0.85,
+                0.88,
+                0.91,
+                0.91,
+                0.95,
+                0.94,
+                0.96,
+                0.99,
+                1.0,
+                1.09,
+                1.2,
+                1.17,
+                1.39
+            ]
+        }]
+    };
+
+    var unitPriceOption2 = {
+        title: {
+            text: '单价（计算公式：每月成交金额/每月成交面积）'
+        },
+        tooltip: {
+            trigger: 'axis',
+            axisPointer: {
+                type: 'cross',
+                label: {
+                    backgroundColor: '#6a7985'
+                }
+            }
+        },
+        legend: {
+            data: ['市南', '崂山', '李沧', '黄岛']
+        },
+        toolbox: {
+            feature: {
+                saveAsImage: {}
+            }
+        },
+        grid: {
+            left: '3%',
+            right: '4%',
+            bottom: '3%',
+            containLabel: true
+        },
+        xAxis: [{
+            type: 'category',
+            boundaryGap: false,
+            data: [
+                "2015.01",
+                "2015.02",
+                "2015.03",
+                "2015.04",
+                "2015.05",
+                "2015.06",
+                "2015.07",
+                "2015.08",
+                "2015.09",
+                "2015.10",
+                "2015.11",
+                "2015.12",
+                "2016.01",
+                "2016.02",
+                "2016.03",
+                "2016.04",
+                "2016.05",
+                "2016.06",
+                "2016.07",
+                "2016.08",
+                "2016.09",
+                "2016.10",
+                "2016.11",
+                "2016.12",
+                "2017.01",
+                "2017.02",
+                "2017.03",
+                "2017.04",
+                "2017.05"
+            ]
+        }],
+        yAxis: [{
+            type: 'value'
+        }],
+        series: [{
+            name: '市南',
+            type: 'line',
+            stack: '1',
+            areaStyle: {},
+            data: [
                 1.62,
                 1.58,
                 1.71,
@@ -460,67 +619,110 @@
                 2.57,
                 2.57
             ]
-        },{
-            name: '市北',
+        }, {
+            name: '崂山',
             type: 'line',
-            stack: '单价',
-            areaStyle: {
-                normal: {}
-            },
+            stack: '2',
+            areaStyle: {},
             data: [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                1.46, 
-                1.48, 
-                1.42, 
-                1.51, 
-                1.5, 
-                1.49, 
-                1.43, 
-                1.38, 
-                1.48, 
-                1.42, 
-                1.4, 
-                1.39, 
-                1.58, 
-                1.45, 
-                1.53, 
-                1.51, 
-                1.56, 
-                1.56, 
-                1.53, 
-                1.55, 
-                1.66, 
-                1.68, 
-                1.72, 
-                1.83, 
-                2.01, 
-                1.05, 
-                1.77
+                1.75,
+                1.72,
+                1.76,
+                1.98,
+                1.78,
+                2.07,
+                2.19,
+                1.83,
+                1.89,
+                2.1,
+                2.0,
+                1.86,
+                1.87,
+                1.99,
+                2.06,
+                2.07,
+                2.2,
+                2.17,
+                2.06,
+                2.1,
+                2.28,
+                2.27,
+                2.26,
+                2.46,
+                2.52,
+                2.6,
+                2.77,
+                2.9,
+                2.8
+            ]
+        }, {
+            name: '李沧',
+            type: 'line',
+            stack: '3',
+            areaStyle: {},
+            data: [
+                1.04,
+                1.16,
+                1.07,
+                1.04,
+                1.11,
+                1.06,
+                1.08,
+                1.07,
+                1.07,
+                1.06,
+                1.12,
+                1.06,
+                1.11,
+                1.05,
+                1.11,
+                1.37,
+                1.16,
+                1.14,
+                1.26,
+                1.3,
+                1.29,
+                1.34,
+                1.42,
+                1.5,
+                1.5,
+                1.6,
+                1.83,
+                1.94,
+                1.88
+            ]
+        }, {
+            name: '黄岛',
+            type: 'line',
+            stack: '4',
+            areaStyle: {},
+            data: [
+                null,
+                null,
+                null,
+                null, null, null, null,
+                0.76,
+                0.8,
+                0.86,
+                0.77,
+                0.8,
+                0.83,
+                0.78,
+                0.86,
+                0.86,
+                0.85,
+                0.88,
+                0.92,
+                0.91,
+                0.94,
+                0.94,
+                0.95,
+                0.99,
+                0.99,
+                1.09,
+                1.2,
+                1.16,
+                1.37
             ]
         }]
     };
@@ -530,6 +732,7 @@
     allAreaChart.setOption(allDealOption);
     allHouseChart.setOption(allHouseOption);
     allHouseUnitPriceChart.setOption(unitPriceOption);
+    allHouseUnitPriceChart2.setOption(unitPriceOption2);
     </script>
 </body>
 
