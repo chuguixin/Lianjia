@@ -27,6 +27,7 @@ class DealSpider(scrapy.Spider):
     def dataInit(self, response):
         areaList = response.css('.m-filter .position div[data-role=ershoufang] a')
         for area in areaList:
+            time.sleep(3)
             try:
                 areaHanzi = area.xpath('text()').extract()[0]
                 areaPinyin = area.xpath('@href').extract()[0].split('/')[2]
@@ -95,6 +96,7 @@ class DealSpider(scrapy.Spider):
             dealYear,dealMonth,dealDay = dealDate[0:3]
             if (dealYear < 2013):
                 return
+            time.sleep(1)
             yield scrapy.Request(url=houseUrl, 
                                 headers=self.headers, 
                                 callback=self.detailParse, 
@@ -111,6 +113,7 @@ class DealSpider(scrapy.Spider):
         else:
             pageCount = int(math.ceil(areaTotalCount/30) * 2)
         for i in range(1,pageCount):
+            time.sleep(3)
             url = ('http://' + self.cityDomain + '.lianjia.com/chengjiao/{}/pg{}/').format(response.meta["areaPinyin"],str(i))
             yield scrapy.Request(url=url, headers=self.headers, callback=self.areaParse, meta={"areaHanzi":areaHanzi,"areaPinyin":areaPinyin} )
     def closed(self, reason):
