@@ -7,35 +7,33 @@ import time
 import math
 import os
 
-with open('./raw/2017-05-12.qd.deal.json') as json_file:
+with open('./raw/2017-05-19.qd.deal.json') as json_file:
     houseDealData = json.load(json_file)
 
 monthData = {}
-for key,value in houseDealData['areaDealData']['shinan'].items():
+for key,value in houseDealData['areaDealData']['huangdao'].items():
     month = key[0:7]
     if (not monthData.has_key(month)):
         monthData[month] = {
             'houseAreaCount': 0.0,
-            'priceCount': 0.0
+            'priceCount': 0.0,
+            'houseCount': 0
         }
     for dealValue in value:
         monthData[month]['houseAreaCount'] = monthData[month]['houseAreaCount'] + dealValue['houseAreaCount'];
         monthData[month]['priceCount'] = monthData[month]['priceCount'] + dealValue['price'];
+        monthData[month]['houseCount'] = monthData[month]['houseCount'] + 1;
 
 resultData = {}
 for key,value in monthData.items():
-    houseAreaCount = 0.0
-    priceCount = 0.0
-    for dealValue in value:
-        houseAreaCount = houseAreaCount + value['houseAreaCount']
-        priceCount = priceCount + value['priceCount']
+    resultData[key] = round(value['priceCount']/value['houseAreaCount'], 2)
 
-    resultData[key] = int(houseAreaCount)
 
 resultDataItems = resultData.items()
 resultDataItems.sort()
 resultKey = []
 resultValue = []
+houseCountValue = []
 for key,value in resultDataItems:
    resultKey.append(key)
    resultValue.append(value)
@@ -45,6 +43,7 @@ jsonData = {}
 jsonData['resultKey'] = resultKey
 jsonData['resultValue'] = resultValue
 jsonData['resultData'] = resultData
+# jsonData['monthData'] = monthData
 
 
 path = os.path.dirname(os.path.abspath(__file__))
