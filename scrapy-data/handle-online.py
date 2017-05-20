@@ -8,7 +8,7 @@ import math
 import os
 
 def get_yestday(day):
-    oneday = datetime.timedelta(days=2)
+    oneday = datetime.timedelta(days=1)
     return day - oneday
 
 with open(str(get_yestday(datetime.datetime.now()))[0:10] + '.qd.json') as json_file:
