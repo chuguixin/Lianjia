@@ -9,6 +9,7 @@ import time
 import math
 import os
 import datetime
+import random
 
 
 
@@ -16,21 +17,14 @@ class DealListSpider(scrapy.Spider):
     name = "dealList"
     cityDomain = "sz"
     allowed_domains = [cityDomain + ".lianjia.com"]
-    user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
-    headers = {'User-Agent': user_agent}
+    user_agent_list = [
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+        ]
+
+    headers = {'User-Agent': random.choice(user_agent_list)}
     start_url = 'http://' + cityDomain + '.lianjia.com/chengjiao/'
     cookies = {
-        "all-lj": "2b19540169a746ec121c915fc5d353c0",
-        "lianjia_uuid": "e7f69abd-b92d-4cec-a93c-afb10c6e379c",
-        "UM_distinctid": "15c2691126843c-02eff0fa3b9a53-143a655c-fa000-15c2691126966d",
-        "sample_traffic_test": "test_65",
-        "select_city": "440300",
-        "_smt_uid": "592066ac.342a9605",
-        "CNZZDATA1255849469": "1954683178-1495295096-http%253A%252F%252Fsz.lianjia.com%252F%7C1495322134",
-        "CNZZDATA1254525948": "1409794137-1495291075-http%253A%252F%252Fsz.lianjia.com%252F%7C1495324265",
-        "CNZZDATA1255633284": "1743568582-1495290914-http%253A%252F%252Fsz.lianjia.com%252F%7C1495322566",
-        "CNZZDATA1255604082": "972411422-1495290571-http%253A%252F%252Fsz.lianjia.com%252F%7C1495322988",
-        "lianjia_ssid": "7ac59e43-7e01-4832-806a-af8e98e7dea6"
+        
     }
     areaDealData = {}
     allDealData = {}
