@@ -17,7 +17,8 @@ exportResultJson = {}
 areaNameList = []
 echarsMonthDict = {}
 echartsJson = {
-    'data': []
+    'unitPrice': [],
+    'dealCount': []
 }
 
 areaDealDataItems = houseDealData['areaDealData'].items()
@@ -26,7 +27,8 @@ for areaKey,areaValue in areaDealDataItems:
     areaDateDealItems = areaValue.items()
     areaName = ''
     areaMonthData = {}
-    echartsSeriesData = []
+    echartsSeriesDataUnitPrice = []
+    echartsSeriesDataHouseCount = []
     if (len(areaDateDealItems) < 1):
         continue
     # 单个区循环，每次为每天
@@ -56,17 +58,18 @@ for areaKey,areaValue in areaDealDataItems:
         calcUnitPrice = round(monthValue['unitPriceCount']/(monthValue['houseCount']*10000), 2)
         monthValue['calcUnitPrice'] = calcUnitPrice
         # 为echarts data添加数据
-        echartsSeriesData.append([monthKey, calcUnitPrice])
-
-    # exportResultJson[areaKey] = {
-    # }
-    # exportResultJson[areaKey]['name'] = areaName
-    # exportResultJson[areaKey]['data'] = areaMonthData
-
+        echartsSeriesDataUnitPrice.append([monthKey, calcUnitPrice])
+        echartsSeriesDataHouseCount.append([monthKey, monthValue['houseCount']])
     # 
-    echartsJson['data'].append({
+    echartsJson['unitPrice'].append({
         'name': areaName,
-        'data': echartsSeriesData,
+        'data': echartsSeriesDataUnitPrice,
+        'type': 'line',
+        'stack': areaKey
+    })
+    echartsJson['dealCount'].append({
+        'name': areaName,
+        'data': echartsSeriesDataHouseCount,
         'type': 'line',
         'stack': areaKey
     })
