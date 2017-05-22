@@ -15,7 +15,7 @@ import random
 
 class DealListSpider(scrapy.Spider):
     name = "dealList"
-    cityDomain = "sz"
+    cityDomain = "bj"
     allowed_domains = [cityDomain + ".lianjia.com"]
     user_agent_list = [
         'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
@@ -55,9 +55,20 @@ class DealListSpider(scrapy.Spider):
             reMatchObj = re.search( r'[\D]*(\d+).*', houseUrl, re.M|re.I)
             houseId = int(reMatchObj.group(1))
             dealDataStr = house.css('.info .dealDate::text').extract()[0]
-            dealDate = time.strptime(dealDataStr, "%Y.%m.%d")
+            try:
+                dealDate = time.strptime(dealDataStr, "%Y.%m.%d")
+            except Exception as e:
+                continue
             dealYear,dealMonth,dealDay = dealDate[0:3]
             houseItemDict = {}
+            try:
+                title = str(response.css('.info .title a::text').extract()[0])
+                houseAreaCountStr = title.split()[-1]
+                reMatchObj = re.search( r'^([\d|\.]+).*', houseAreaCountStr, re.M|re.I)
+                houseAreaCount = float(reMatchObj.group(1))
+                houseItemDict["houseAreaCount"] = houseAreaCount
+            except Exception as e:
+                continue
             houseItemDict["url"] = houseUrl
             houseItemDict["price"] = float(response.css('.info .address .totalPrice span::text').extract()[0])
             houseItemDict["unitPrice"] = int(response.css('.info .flood .unitPrice .number::text').extract()[0]) 
@@ -83,6 +94,7 @@ class DealListSpider(scrapy.Spider):
             pageCount = int(math.ceil(areaTotalCount/30) * 1.1) + 1
         if (pageCount > 101):
             pageCount = 101
+        pageCount = 3
         for i in range(1,pageCount):
             time.sleep(1)
             url = ('http://' + self.cityDomain + '.lianjia.com/chengjiao/{}/pg{}/').format(subAreaPinyin,str(i))
