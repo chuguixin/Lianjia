@@ -94,7 +94,6 @@ class DealListSpider(scrapy.Spider):
             pageCount = int(math.ceil(areaTotalCount/30) * 1.1) + 1
         if (pageCount > 101):
             pageCount = 101
-        pageCount = 3
         for i in range(1,pageCount):
             time.sleep(1)
             url = ('http://' + self.cityDomain + '.lianjia.com/chengjiao/{}/pg{}/').format(subAreaPinyin,str(i))

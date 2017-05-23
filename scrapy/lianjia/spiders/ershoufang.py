@@ -18,27 +18,7 @@ class ErshoufangSpider(scrapy.Spider):
         'User-Agent': user_agent
     }
     cookie = {
-        '_qzja': '1.564479870.1485603777024.1489043542457.1489110874264.1489110874264.1489110901124.0.0.0.55.6',
-        'lianjia_uuid':'fc3783b5-406c-4ced-b7d1-22c292f633ff',
-        'UM_distinctid':'15b80567dc5325-0b46924d39fb61-1d3c6853-1fa400-15b80567dc638e',
-        'gr_user_id':'e367ef2d-6e64-4c37-94f4-e57d3c06bbfd',
-        'Hm_lvt_efa595b768cc9dc7d7f9823368e795f1':'1493166026',
-        'all-lj':'fa25c352c963a53c37faa70f46a58187',
-        'sample_traffic_test':'test_66',
-        'select_city':'370200',
-        '_smt_uid':'58f5d8b3.57f62786',
-        'CNZZDATA1253492431':'1125092302-1492504573-%7C1495201614',
-        'CNZZDATA1254525948':'1475292229-1492504669-%7C1495204660',
-        'CNZZDATA1255633284':'433543889-1492506529-%7C1495204514',
-        'CNZZDATA1255604082':'513345297-1492506773-%7C1495205371',
-        '_gat':'1',
-        '_gat_past':'1',
-        '_gat_global':'1',
-        '_gat_new_global':'1',
-        '_ga':'GA1.2.377603813.1492506809',
-        '_gid':'GA1.2.1610112096.1495206972',
-        '_gat_dianpu_agent':'1',
-        'lianjia_ssid':'fded5a8e-a7f2-4c02-a9b7-631172522d'
+        
     }
     start_url = 'http://' + cityDomain + '.lianjia.com/ershoufang/'
     allHouseData = {}
