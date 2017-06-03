@@ -20,7 +20,7 @@ class ErshoufangSpider(scrapy.Spider):
     cookie = {
         
     }
-    start_url = 'http://' + cityDomain + '.lianjia.com/ershoufang/'
+    start_url = 'https://' + cityDomain + '.lianjia.com/ershoufang/'
     allHouseData = {}
     houseDict = {}
 
@@ -34,7 +34,7 @@ class ErshoufangSpider(scrapy.Spider):
                 areaPinyin = area.xpath('@href').extract()[0].split('/')[2]
                 areaName = areaHanzi + areaPinyin
                 self.allHouseData[areaName + "Dict"] = {}
-                areaUrl = ('http://' + self.cityDomain + '.lianjia.com/ershoufang/{}/').format(areaPinyin)
+                areaUrl = ('https://' + self.cityDomain + '.lianjia.com/ershoufang/{}/').format(areaPinyin)
                 yield scrapy.Request(url=areaUrl, headers=self.headers, callback=self.areaRequest, meta={"areaHanzi":areaHanzi,"areaPinyin":areaPinyin} )
             except Exception:
                 pass
@@ -83,7 +83,7 @@ class ErshoufangSpider(scrapy.Spider):
         else:
             pageCount = int(math.ceil(areaTotalCount/30) * 2)
         for i in range(1,pageCount):
-            url = ('http://' + self.cityDomain + '.lianjia.com/ershoufang/{}/pg{}/').format(response.meta["areaPinyin"],str(i))
+            url = ('https://' + self.cityDomain + '.lianjia.com/ershoufang/{}/pg{}/').format(response.meta["areaPinyin"],str(i))
             yield scrapy.Request(url=url, headers=self.headers, callback=self.areaParse, meta={"areaHanzi":areaHanzi,"areaPinyin":areaPinyin} )
     def closed(self, reason):
         path = os.path.dirname(os.path.abspath(__file__))

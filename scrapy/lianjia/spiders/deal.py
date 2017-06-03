@@ -18,7 +18,7 @@ class DealSpider(scrapy.Spider):
     allowed_domains = [cityDomain + ".lianjia.com"]
     user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
     headers = {'User-Agent': user_agent}
-    start_url = 'http://' + cityDomain + '.lianjia.com/chengjiao/'
+    start_url = 'https://' + cityDomain + '.lianjia.com/chengjiao/'
     cookies = {
     }
     areaDealData = {}
@@ -35,7 +35,7 @@ class DealSpider(scrapy.Spider):
                 areaPinyin = area.xpath('@href').extract()[0].split('/')[2]
                 areaName = areaPinyin
                 self.areaDealData[areaName] = {}
-                areaUrl = ('http://' + self.cityDomain + '.lianjia.com/chengjiao/{}/').format(areaPinyin)
+                areaUrl = ('https://' + self.cityDomain + '.lianjia.com/chengjiao/{}/').format(areaPinyin)
                 yield scrapy.Request(url=areaUrl, headers=self.headers, callback=self.areaRequest, meta={"areaHanzi":areaHanzi,"areaPinyin":areaPinyin} )
             except Exception:
                 pass
@@ -127,7 +127,7 @@ class DealSpider(scrapy.Spider):
         if (pageCount > 101):
             pageCount = 101
         for i in range(1,pageCount):
-            url = ('http://' + self.cityDomain + '.lianjia.com/chengjiao/{}/pg{}/').format(subAreaPinyin,str(i))
+            url = ('https://' + self.cityDomain + '.lianjia.com/chengjiao/{}/pg{}/').format(subAreaPinyin,str(i))
             yield scrapy.Request(
                 url=url, 
                 headers=self.headers, 
@@ -149,7 +149,7 @@ class DealSpider(scrapy.Spider):
                 subAreaHanzi = subArea.xpath('text()').extract()[0]
                 subAreaPinyin = subArea.xpath('@href').extract()[0].split('/')[2]
                 self.areaDealData[areaName] = {}
-                subAreaUrl = ('http://' + self.cityDomain + '.lianjia.com/chengjiao/{}/').format(subAreaPinyin)
+                subAreaUrl = ('https://' + self.cityDomain + '.lianjia.com/chengjiao/{}/').format(subAreaPinyin)
                 yield scrapy.Request(
                     url=subAreaUrl, 
                     headers=self.headers, 
