@@ -79,7 +79,8 @@ class DealListSpider(scrapy.Spider):
             # 如果此房子的成交日期已经早于需要爬去的日期
             # 那么设置标志位标示当前二级区域已经可以停止爬取
             # 同时，不保存当前成交
-            if (dealYear < self.crawlYear or (dealYear == self.crawlYear and dealMonth < self.crawlMonth)):
+            print dealYear, dealMonth, self.crawlYear, self.crawlMonth
+            if (dealYear != self.crawlYear or dealMonth != self.crawlMonth):
                 self.crawlStatus[areaPinyin + subAreaPinyin] = 1
                 continue
 
