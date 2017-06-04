@@ -10,10 +10,21 @@ import time
 import math
 import os
 
-with open('./raw/2017-05-23.bj.deal.json') as json_file:
+with open('./raw/2017-06-04.qd.deal.json') as json_file:
     houseDealData = json.load(json_file)
 
-exportResultJson = {}
+# x = 0;
+# obj = {}
+# for dateKey, dateValue in houseDealData['allDealData'].items():
+#     for subValue in dateValue:
+#         if (obj.has_key(subValue['url'])):
+#             print subValue['url']
+#         obj[subValue['url']] = 1
+#         x = x + 1
+# print x;
+
+# exit()
+
 areaNameList = []
 echarsMonthDict = {}
 echartsJson = {
@@ -123,7 +134,5 @@ jsonFileWiriteDir = jsonFileWiriteDir + '/dist/'
 if (not os.path.isdir(jsonFileWiriteDir)):
     os.mkdir(jsonFileWiriteDir)
 os.chdir(jsonFileWiriteDir)
-with open(jsonFileWiriteDir + time.strftime("%Y-%m-%d", time.localtime()) + '.' + 'bj.json', 'wb') as json_file:
-    json_file.write(json.dumps(exportResultJson, indent=4, sort_keys=False, ensure_ascii=False))
-with open(jsonFileWiriteDir + time.strftime("%Y-%m-%d", time.localtime()) + '.' + 'bj.echarst.json', 'wb') as json_file:
+with open(jsonFileWiriteDir + time.strftime("%Y-%m-%d", time.localtime()) + '.' + 'qd.echarst.json', 'wb') as json_file:
     json_file.write(json.dumps(echartsJson, indent=4, sort_keys=False, ensure_ascii=False))

@@ -1,0 +1,4372 @@
+{
+    "allDealData": {
+        "2017.05.18": [
+            {
+                "houseAreaCount": 64.15, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101235803.html", 
+                "subAreaHanzi": "闫家山", 
+                "price": 101.0, 
+                "unitPrice": 15745
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103092641840.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 84.0, 
+                "areaHanzi": "胶南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101175173.html", 
+                "subAreaHanzi": "东方影都", 
+                "price": 91.0, 
+                "unitPrice": 10834
+            }, 
+            {
+                "houseAreaCount": 80.71, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101116649.html", 
+                "subAreaHanzi": "香江路", 
+                "price": 124.0, 
+                "unitPrice": 15364
+            }, 
+            {
+                "houseAreaCount": 53.69, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101198085.html", 
+                "subAreaHanzi": "下王埠", 
+                "price": 150.0, 
+                "unitPrice": 27939
+            }, 
+            {
+                "houseAreaCount": 47.0, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101319331.html", 
+                "subAreaHanzi": "河南", 
+                "price": 41.0, 
+                "unitPrice": 8724
+            }, 
+            {
+                "houseAreaCount": 106.88, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103100729640.html", 
+                "subAreaHanzi": "西姜", 
+                "price": 225.0, 
+                "unitPrice": 21052
+            }, 
+            {
+                "houseAreaCount": 145.32, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101145486.html", 
+                "subAreaHanzi": "唐岛湾", 
+                "price": 133.0, 
+                "unitPrice": 9153
+            }, 
+            {
+                "houseAreaCount": 109.81, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103100845905.html", 
+                "subAreaHanzi": "奥帆中心", 
+                "price": 300.0, 
+                "unitPrice": 27320
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101215915.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }, 
+            {
+                "houseAreaCount": 91.79, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101303468.html", 
+                "subAreaHanzi": "金沙滩", 
+                "price": 141.0, 
+                "unitPrice": 15362
+            }
+        ], 
+        "2017.05.19": [
+            {
+                "houseAreaCount": 86.53, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101067483.html", 
+                "subAreaHanzi": "海云庵", 
+                "price": 172.0, 
+                "unitPrice": 19878
+            }, 
+            {
+                "houseAreaCount": 67.57, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101312832.html", 
+                "subAreaHanzi": "错埠岭", 
+                "price": 170.0, 
+                "unitPrice": 25160
+            }, 
+            {
+                "houseAreaCount": 112.6, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101309936.html", 
+                "subAreaHanzi": "合肥路佳世客", 
+                "price": 278.0, 
+                "unitPrice": 24690
+            }, 
+            {
+                "houseAreaCount": 53.52, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101120526.html", 
+                "subAreaHanzi": "同安路", 
+                "price": 90.0, 
+                "unitPrice": 16817
+            }, 
+            {
+                "houseAreaCount": 67.84, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101086744.html", 
+                "subAreaHanzi": "枣儿山", 
+                "price": 100.7, 
+                "unitPrice": 14844
+            }, 
+            {
+                "houseAreaCount": 58.67, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101309553.html", 
+                "subAreaHanzi": "北村", 
+                "price": 143.0, 
+                "unitPrice": 24374
+            }, 
+            {
+                "houseAreaCount": 138.0, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101102578.html", 
+                "subAreaHanzi": "石老人", 
+                "price": 430.0, 
+                "unitPrice": 31160
+            }, 
+            {
+                "houseAreaCount": 66.74, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101300819.html", 
+                "subAreaHanzi": "田家花园", 
+                "price": 132.0, 
+                "unitPrice": 19779
+            }, 
+            {
+                "houseAreaCount": 110.58, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101284515.html", 
+                "subAreaHanzi": "辛安", 
+                "price": 93.0, 
+                "unitPrice": 8411
+            }, 
+            {
+                "houseAreaCount": 159.13, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101272908.html", 
+                "subAreaHanzi": "积米崖", 
+                "price": 379.2, 
+                "unitPrice": 23830
+            }
+        ], 
+        "2017.05.14": [
+            {
+                "houseAreaCount": 86.53, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101305362.html", 
+                "subAreaHanzi": "海云庵", 
+                "price": 172.0, 
+                "unitPrice": 19878
+            }, 
+            {
+                "houseAreaCount": 64.73, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101141583.html", 
+                "subAreaHanzi": "水清沟", 
+                "price": 40.0, 
+                "unitPrice": 6180
+            }, 
+            {
+                "houseAreaCount": 95.03, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101126326.html", 
+                "subAreaHanzi": "薛家岛", 
+                "price": 128.0, 
+                "unitPrice": 13470
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101257828.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101074265.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 85.61, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101204449.html", 
+                "subAreaHanzi": "福州北路", 
+                "price": 180.5, 
+                "unitPrice": 21084
+            }, 
+            {
+                "houseAreaCount": 80.89, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101219241.html", 
+                "subAreaHanzi": "大沙路", 
+                "price": 175.0, 
+                "unitPrice": 21635
+            }, 
+            {
+                "houseAreaCount": 88.33, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101292765.html", 
+                "subAreaHanzi": "十梅庵", 
+                "price": 188.0, 
+                "unitPrice": 21284
+            }, 
+            {
+                "houseAreaCount": 83.95, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101215528.html", 
+                "subAreaHanzi": "东李", 
+                "price": 110.0, 
+                "unitPrice": 13104
+            }, 
+            {
+                "houseAreaCount": 98.0, 
+                "areaHanzi": "城阳", 
+                "url": "https://qd.lianjia.com/chengjiao/103101182918.html", 
+                "subAreaHanzi": "城阳实验二小", 
+                "price": 126.0, 
+                "unitPrice": 12858
+            }, 
+            {
+                "houseAreaCount": 98.0, 
+                "areaHanzi": "城阳", 
+                "url": "https://qd.lianjia.com/chengjiao/103101163490.html", 
+                "subAreaHanzi": "城阳实验二小", 
+                "price": 126.0, 
+                "unitPrice": 12858
+            }, 
+            {
+                "houseAreaCount": 158.59, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101108118.html", 
+                "subAreaHanzi": "颐中体育场", 
+                "price": 453.8, 
+                "unitPrice": 28615
+            }, 
+            {
+                "houseAreaCount": 66.74, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101278823.html", 
+                "subAreaHanzi": "田家花园", 
+                "price": 132.0, 
+                "unitPrice": 19779
+            }, 
+            {
+                "houseAreaCount": 61.46, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101150820.html", 
+                "subAreaHanzi": "湛山", 
+                "price": 245.0, 
+                "unitPrice": 39864
+            }, 
+            {
+                "houseAreaCount": 159.13, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101294414.html", 
+                "subAreaHanzi": "积米崖", 
+                "price": 379.2, 
+                "unitPrice": 23830
+            }, 
+            {
+                "houseAreaCount": 159.13, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101285341.html", 
+                "subAreaHanzi": "积米崖", 
+                "price": 379.2, 
+                "unitPrice": 23830
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101227735.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }
+        ], 
+        "2017.05.13": [
+            {
+                "houseAreaCount": 86.53, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101167386.html", 
+                "subAreaHanzi": "海云庵", 
+                "price": 172.0, 
+                "unitPrice": 19878
+            }, 
+            {
+                "houseAreaCount": 92.09, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101235037.html", 
+                "subAreaHanzi": "新都心", 
+                "price": 280.0, 
+                "unitPrice": 30406
+            }, 
+            {
+                "houseAreaCount": 85.43, 
+                "areaHanzi": "城阳", 
+                "url": "https://qd.lianjia.com/chengjiao/103101145579.html", 
+                "subAreaHanzi": "太阳城", 
+                "price": 84.0, 
+                "unitPrice": 9833
+            }, 
+            {
+                "houseAreaCount": 85.43, 
+                "areaHanzi": "城阳", 
+                "url": "https://qd.lianjia.com/chengjiao/103101292826.html", 
+                "subAreaHanzi": "太阳城", 
+                "price": 84.0, 
+                "unitPrice": 9833
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101301040.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 85.61, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101222239.html", 
+                "subAreaHanzi": "福州北路", 
+                "price": 180.5, 
+                "unitPrice": 21084
+            }, 
+            {
+                "houseAreaCount": 83.43, 
+                "areaHanzi": "城阳", 
+                "url": "https://qd.lianjia.com/chengjiao/103101201119.html", 
+                "subAreaHanzi": "农业大学", 
+                "price": 98.3, 
+                "unitPrice": 11783
+            }, 
+            {
+                "houseAreaCount": 83.43, 
+                "areaHanzi": "城阳", 
+                "url": "https://qd.lianjia.com/chengjiao/103101263381.html", 
+                "subAreaHanzi": "农业大学", 
+                "price": 98.3, 
+                "unitPrice": 11783
+            }, 
+            {
+                "houseAreaCount": 66.74, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101263523.html", 
+                "subAreaHanzi": "田家花园", 
+                "price": 132.0, 
+                "unitPrice": 19779
+            }, 
+            {
+                "houseAreaCount": 66.74, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101260260.html", 
+                "subAreaHanzi": "田家花园", 
+                "price": 132.0, 
+                "unitPrice": 19779
+            }, 
+            {
+                "houseAreaCount": 99.94, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103089792783.html", 
+                "subAreaHanzi": "五四广场", 
+                "price": 140.0, 
+                "unitPrice": 14009
+            }, 
+            {
+                "houseAreaCount": 99.94, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101132491.html", 
+                "subAreaHanzi": "五四广场", 
+                "price": 140.0, 
+                "unitPrice": 14009
+            }, 
+            {
+                "houseAreaCount": 145.32, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101176463.html", 
+                "subAreaHanzi": "唐岛湾", 
+                "price": 133.0, 
+                "unitPrice": 9153
+            }
+        ], 
+        "2017.05.09": [
+            {
+                "houseAreaCount": 67.57, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101122683.html", 
+                "subAreaHanzi": "错埠岭", 
+                "price": 170.0, 
+                "unitPrice": 25160
+            }, 
+            {
+                "houseAreaCount": 67.57, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101193304.html", 
+                "subAreaHanzi": "错埠岭", 
+                "price": 170.0, 
+                "unitPrice": 25160
+            }, 
+            {
+                "houseAreaCount": 91.0, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101258272.html", 
+                "subAreaHanzi": "台东", 
+                "price": 227.0, 
+                "unitPrice": 24946
+            }, 
+            {
+                "houseAreaCount": 55.95, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101016305.html", 
+                "subAreaHanzi": "镇江路", 
+                "price": 90.0, 
+                "unitPrice": 16086
+            }, 
+            {
+                "houseAreaCount": 80.71, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101281107.html", 
+                "subAreaHanzi": "香江路", 
+                "price": 124.0, 
+                "unitPrice": 15364
+            }, 
+            {
+                "houseAreaCount": 53.69, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101166212.html", 
+                "subAreaHanzi": "下王埠", 
+                "price": 150.0, 
+                "unitPrice": 27939
+            }, 
+            {
+                "houseAreaCount": 53.69, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103100794182.html", 
+                "subAreaHanzi": "下王埠", 
+                "price": 150.0, 
+                "unitPrice": 27939
+            }, 
+            {
+                "houseAreaCount": 89.0, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101211518.html", 
+                "subAreaHanzi": "北岭", 
+                "price": 216.0, 
+                "unitPrice": 24270
+            }, 
+            {
+                "houseAreaCount": 88.33, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103100995540.html", 
+                "subAreaHanzi": "十梅庵", 
+                "price": 188.0, 
+                "unitPrice": 21284
+            }, 
+            {
+                "houseAreaCount": 83.43, 
+                "areaHanzi": "城阳", 
+                "url": "https://qd.lianjia.com/chengjiao/103101215690.html", 
+                "subAreaHanzi": "农业大学", 
+                "price": 98.3, 
+                "unitPrice": 11783
+            }, 
+            {
+                "houseAreaCount": 158.59, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103100960150.html", 
+                "subAreaHanzi": "颐中体育场", 
+                "price": 453.8, 
+                "unitPrice": 28615
+            }, 
+            {
+                "houseAreaCount": 103.6, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101152658.html", 
+                "subAreaHanzi": "闽江路", 
+                "price": 263.0, 
+                "unitPrice": 25387
+            }, 
+            {
+                "houseAreaCount": 53.43, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101247426.html", 
+                "subAreaHanzi": "大学路", 
+                "price": 250.0, 
+                "unitPrice": 46791
+            }, 
+            {
+                "houseAreaCount": 46.14, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101197449.html", 
+                "subAreaHanzi": "大尧", 
+                "price": 98.5, 
+                "unitPrice": 21349
+            }, 
+            {
+                "houseAreaCount": 56.42, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101037649.html", 
+                "subAreaHanzi": "八大湖", 
+                "price": 117.0, 
+                "unitPrice": 20738
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101273363.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }
+        ], 
+        "2017.05.08": [
+            {
+                "houseAreaCount": 92.09, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103100953976.html", 
+                "subAreaHanzi": "新都心", 
+                "price": 280.0, 
+                "unitPrice": 30406
+            }, 
+            {
+                "houseAreaCount": 64.15, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101249572.html", 
+                "subAreaHanzi": "闫家山", 
+                "price": 101.0, 
+                "unitPrice": 15745
+            }, 
+            {
+                "houseAreaCount": 67.57, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101262882.html", 
+                "subAreaHanzi": "错埠岭", 
+                "price": 170.0, 
+                "unitPrice": 25160
+            }, 
+            {
+                "houseAreaCount": 91.0, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101109145.html", 
+                "subAreaHanzi": "台东", 
+                "price": 227.0, 
+                "unitPrice": 24946
+            }, 
+            {
+                "houseAreaCount": 80.71, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101175535.html", 
+                "subAreaHanzi": "香江路", 
+                "price": 124.0, 
+                "unitPrice": 15364
+            }, 
+            {
+                "houseAreaCount": 80.71, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101262984.html", 
+                "subAreaHanzi": "香江路", 
+                "price": 124.0, 
+                "unitPrice": 15364
+            }, 
+            {
+                "houseAreaCount": 80.71, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101266645.html", 
+                "subAreaHanzi": "香江路", 
+                "price": 124.0, 
+                "unitPrice": 15364
+            }, 
+            {
+                "houseAreaCount": 80.71, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101194157.html", 
+                "subAreaHanzi": "香江路", 
+                "price": 124.0, 
+                "unitPrice": 15364
+            }, 
+            {
+                "houseAreaCount": 83.95, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101130909.html", 
+                "subAreaHanzi": "东李", 
+                "price": 110.0, 
+                "unitPrice": 13104
+            }, 
+            {
+                "houseAreaCount": 58.67, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101100711.html", 
+                "subAreaHanzi": "北村", 
+                "price": 143.0, 
+                "unitPrice": 24374
+            }, 
+            {
+                "houseAreaCount": 46.14, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101100094.html", 
+                "subAreaHanzi": "大尧", 
+                "price": 98.5, 
+                "unitPrice": 21349
+            }, 
+            {
+                "houseAreaCount": 98.65, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101055923.html", 
+                "subAreaHanzi": "天泰", 
+                "price": 135.0, 
+                "unitPrice": 13685
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101278547.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }
+        ], 
+        "2017.05.10": [
+            {
+                "houseAreaCount": 96.59, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101237302.html", 
+                "subAreaHanzi": "中央CBD", 
+                "price": 284.5, 
+                "unitPrice": 29455
+            }, 
+            {
+                "houseAreaCount": 96.59, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101095817.html", 
+                "subAreaHanzi": "中央CBD", 
+                "price": 284.5, 
+                "unitPrice": 29455
+            }, 
+            {
+                "houseAreaCount": 92.09, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101280964.html", 
+                "subAreaHanzi": "新都心", 
+                "price": 280.0, 
+                "unitPrice": 30406
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101246748.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 38.87, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101163484.html", 
+                "subAreaHanzi": "浮山后", 
+                "price": 63.0, 
+                "unitPrice": 16208
+            }, 
+            {
+                "houseAreaCount": 53.52, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101250065.html", 
+                "subAreaHanzi": "同安路", 
+                "price": 90.0, 
+                "unitPrice": 16817
+            }, 
+            {
+                "houseAreaCount": 53.52, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101128079.html", 
+                "subAreaHanzi": "同安路", 
+                "price": 90.0, 
+                "unitPrice": 16817
+            }, 
+            {
+                "houseAreaCount": 53.52, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101263342.html", 
+                "subAreaHanzi": "同安路", 
+                "price": 90.0, 
+                "unitPrice": 16817
+            }, 
+            {
+                "houseAreaCount": 53.52, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101286828.html", 
+                "subAreaHanzi": "同安路", 
+                "price": 90.0, 
+                "unitPrice": 16817
+            }, 
+            {
+                "houseAreaCount": 91.0, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101282221.html", 
+                "subAreaHanzi": "台东", 
+                "price": 227.0, 
+                "unitPrice": 24946
+            }, 
+            {
+                "houseAreaCount": 91.0, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101153000.html", 
+                "subAreaHanzi": "台东", 
+                "price": 227.0, 
+                "unitPrice": 24946
+            }, 
+            {
+                "houseAreaCount": 91.0, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101175183.html", 
+                "subAreaHanzi": "台东", 
+                "price": 227.0, 
+                "unitPrice": 24946
+            }, 
+            {
+                "houseAreaCount": 55.95, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103100786841.html", 
+                "subAreaHanzi": "镇江路", 
+                "price": 90.0, 
+                "unitPrice": 16086
+            }, 
+            {
+                "houseAreaCount": 55.95, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101267071.html", 
+                "subAreaHanzi": "镇江路", 
+                "price": 90.0, 
+                "unitPrice": 16086
+            }, 
+            {
+                "houseAreaCount": 80.71, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101268742.html", 
+                "subAreaHanzi": "香江路", 
+                "price": 124.0, 
+                "unitPrice": 15364
+            }, 
+            {
+                "houseAreaCount": 80.89, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101273642.html", 
+                "subAreaHanzi": "大沙路", 
+                "price": 175.0, 
+                "unitPrice": 21635
+            }, 
+            {
+                "houseAreaCount": 88.33, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101249957.html", 
+                "subAreaHanzi": "十梅庵", 
+                "price": 188.0, 
+                "unitPrice": 21284
+            }, 
+            {
+                "houseAreaCount": 106.88, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101085236.html", 
+                "subAreaHanzi": "西姜", 
+                "price": 225.0, 
+                "unitPrice": 21052
+            }, 
+            {
+                "houseAreaCount": 58.67, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101214467.html", 
+                "subAreaHanzi": "北村", 
+                "price": 143.0, 
+                "unitPrice": 24374
+            }, 
+            {
+                "houseAreaCount": 103.6, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101280690.html", 
+                "subAreaHanzi": "闽江路", 
+                "price": 263.0, 
+                "unitPrice": 25387
+            }, 
+            {
+                "houseAreaCount": 103.6, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101275195.html", 
+                "subAreaHanzi": "闽江路", 
+                "price": 263.0, 
+                "unitPrice": 25387
+            }, 
+            {
+                "houseAreaCount": 62.0, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101087636.html", 
+                "subAreaHanzi": "新贵都", 
+                "price": 148.0, 
+                "unitPrice": 23871
+            }, 
+            {
+                "houseAreaCount": 62.0, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101279825.html", 
+                "subAreaHanzi": "新贵都", 
+                "price": 148.0, 
+                "unitPrice": 23871
+            }, 
+            {
+                "houseAreaCount": 61.46, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101286620.html", 
+                "subAreaHanzi": "湛山", 
+                "price": 245.0, 
+                "unitPrice": 39864
+            }, 
+            {
+                "houseAreaCount": 145.32, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101184202.html", 
+                "subAreaHanzi": "唐岛湾", 
+                "price": 133.0, 
+                "unitPrice": 9153
+            }, 
+            {
+                "houseAreaCount": 145.32, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101286131.html", 
+                "subAreaHanzi": "唐岛湾", 
+                "price": 133.0, 
+                "unitPrice": 9153
+            }, 
+            {
+                "houseAreaCount": 145.32, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101252968.html", 
+                "subAreaHanzi": "唐岛湾", 
+                "price": 133.0, 
+                "unitPrice": 9153
+            }, 
+            {
+                "houseAreaCount": 145.32, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101281072.html", 
+                "subAreaHanzi": "唐岛湾", 
+                "price": 133.0, 
+                "unitPrice": 9153
+            }, 
+            {
+                "houseAreaCount": 110.0, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101272447.html", 
+                "subAreaHanzi": "黄岛区政府", 
+                "price": 127.5, 
+                "unitPrice": 11591
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101190593.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }
+        ], 
+        "2017.05.11": [
+            {
+                "houseAreaCount": 96.59, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101210828.html", 
+                "subAreaHanzi": "中央CBD", 
+                "price": 284.5, 
+                "unitPrice": 29455
+            }, 
+            {
+                "houseAreaCount": 67.57, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101119785.html", 
+                "subAreaHanzi": "错埠岭", 
+                "price": 170.0, 
+                "unitPrice": 25160
+            }, 
+            {
+                "houseAreaCount": 53.52, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101092034.html", 
+                "subAreaHanzi": "同安路", 
+                "price": 90.0, 
+                "unitPrice": 16817
+            }, 
+            {
+                "houseAreaCount": 91.0, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101253902.html", 
+                "subAreaHanzi": "台东", 
+                "price": 227.0, 
+                "unitPrice": 24946
+            }, 
+            {
+                "houseAreaCount": 80.71, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101288710.html", 
+                "subAreaHanzi": "香江路", 
+                "price": 124.0, 
+                "unitPrice": 15364
+            }, 
+            {
+                "houseAreaCount": 80.71, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101283494.html", 
+                "subAreaHanzi": "香江路", 
+                "price": 124.0, 
+                "unitPrice": 15364
+            }, 
+            {
+                "houseAreaCount": 89.0, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101142083.html", 
+                "subAreaHanzi": "北岭", 
+                "price": 216.0, 
+                "unitPrice": 24270
+            }, 
+            {
+                "houseAreaCount": 88.0, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101256767.html", 
+                "subAreaHanzi": "李村公园", 
+                "price": 167.0, 
+                "unitPrice": 18978
+            }, 
+            {
+                "houseAreaCount": 158.59, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101177482.html", 
+                "subAreaHanzi": "颐中体育场", 
+                "price": 453.8, 
+                "unitPrice": 28615
+            }, 
+            {
+                "houseAreaCount": 159.13, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101267208.html", 
+                "subAreaHanzi": "积米崖", 
+                "price": 379.2, 
+                "unitPrice": 23830
+            }
+        ], 
+        "2017.05.12": [
+            {
+                "houseAreaCount": 86.53, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101133926.html", 
+                "subAreaHanzi": "海云庵", 
+                "price": 172.0, 
+                "unitPrice": 19878
+            }, 
+            {
+                "houseAreaCount": 63.27, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101246631.html", 
+                "subAreaHanzi": "理工大学", 
+                "price": 121.3, 
+                "unitPrice": 19172
+            }, 
+            {
+                "houseAreaCount": 67.57, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101184904.html", 
+                "subAreaHanzi": "错埠岭", 
+                "price": 170.0, 
+                "unitPrice": 25160
+            }, 
+            {
+                "houseAreaCount": 112.6, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103100912963.html", 
+                "subAreaHanzi": "合肥路佳世客", 
+                "price": 278.0, 
+                "unitPrice": 24690
+            }, 
+            {
+                "houseAreaCount": 38.87, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101254613.html", 
+                "subAreaHanzi": "浮山后", 
+                "price": 63.0, 
+                "unitPrice": 16208
+            }, 
+            {
+                "houseAreaCount": 53.69, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101281756.html", 
+                "subAreaHanzi": "下王埠", 
+                "price": 150.0, 
+                "unitPrice": 27939
+            }, 
+            {
+                "houseAreaCount": 95.0, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103100962828.html", 
+                "subAreaHanzi": "雕塑园", 
+                "price": 440.0, 
+                "unitPrice": 46316
+            }, 
+            {
+                "houseAreaCount": 164.0, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101140107.html", 
+                "subAreaHanzi": "崂山CBD", 
+                "price": 437.8, 
+                "unitPrice": 26696
+            }, 
+            {
+                "houseAreaCount": 53.59, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101271347.html", 
+                "subAreaHanzi": "北仲", 
+                "price": 97.0, 
+                "unitPrice": 18101
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101241369.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }
+        ], 
+        "2017.05.04": [
+            {
+                "houseAreaCount": 96.59, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101015457.html", 
+                "subAreaHanzi": "中央CBD", 
+                "price": 284.5, 
+                "unitPrice": 29455
+            }, 
+            {
+                "houseAreaCount": 63.27, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101180871.html", 
+                "subAreaHanzi": "理工大学", 
+                "price": 121.3, 
+                "unitPrice": 19172
+            }, 
+            {
+                "houseAreaCount": 95.03, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101177796.html", 
+                "subAreaHanzi": "薛家岛", 
+                "price": 128.0, 
+                "unitPrice": 13470
+            }, 
+            {
+                "houseAreaCount": 95.03, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101075090.html", 
+                "subAreaHanzi": "薛家岛", 
+                "price": 128.0, 
+                "unitPrice": 13470
+            }, 
+            {
+                "houseAreaCount": 75.1, 
+                "areaHanzi": "城阳", 
+                "url": "https://qd.lianjia.com/chengjiao/103101252451.html", 
+                "subAreaHanzi": "瑞阳路", 
+                "price": 85.0, 
+                "unitPrice": 11319
+            }, 
+            {
+                "houseAreaCount": 53.69, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101088699.html", 
+                "subAreaHanzi": "下王埠", 
+                "price": 150.0, 
+                "unitPrice": 27939
+            }, 
+            {
+                "houseAreaCount": 83.95, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101234481.html", 
+                "subAreaHanzi": "东李", 
+                "price": 110.0, 
+                "unitPrice": 13104
+            }, 
+            {
+                "houseAreaCount": 103.6, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101054937.html", 
+                "subAreaHanzi": "闽江路", 
+                "price": 263.0, 
+                "unitPrice": 25387
+            }, 
+            {
+                "houseAreaCount": 88.0, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101156270.html", 
+                "subAreaHanzi": "天山银海", 
+                "price": 249.5, 
+                "unitPrice": 28353
+            }, 
+            {
+                "houseAreaCount": 66.74, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103100661778.html", 
+                "subAreaHanzi": "田家花园", 
+                "price": 132.0, 
+                "unitPrice": 19779
+            }, 
+            {
+                "houseAreaCount": 66.74, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101142391.html", 
+                "subAreaHanzi": "田家花园", 
+                "price": 132.0, 
+                "unitPrice": 19779
+            }, 
+            {
+                "houseAreaCount": 145.32, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101160248.html", 
+                "subAreaHanzi": "唐岛湾", 
+                "price": 133.0, 
+                "unitPrice": 9153
+            }, 
+            {
+                "houseAreaCount": 145.32, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101022696.html", 
+                "subAreaHanzi": "唐岛湾", 
+                "price": 133.0, 
+                "unitPrice": 9153
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101253244.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }
+        ], 
+        "2017.05.03": [
+            {
+                "houseAreaCount": 96.59, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101245105.html", 
+                "subAreaHanzi": "中央CBD", 
+                "price": 284.5, 
+                "unitPrice": 29455
+            }, 
+            {
+                "houseAreaCount": 95.03, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101093505.html", 
+                "subAreaHanzi": "薛家岛", 
+                "price": 128.0, 
+                "unitPrice": 13470
+            }, 
+            {
+                "houseAreaCount": 84.0, 
+                "areaHanzi": "胶南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101111006.html", 
+                "subAreaHanzi": "东方影都", 
+                "price": 91.0, 
+                "unitPrice": 10834
+            }, 
+            {
+                "houseAreaCount": 55.95, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101218927.html", 
+                "subAreaHanzi": "镇江路", 
+                "price": 90.0, 
+                "unitPrice": 16086
+            }, 
+            {
+                "houseAreaCount": 31.0, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101249919.html", 
+                "subAreaHanzi": "书院路", 
+                "price": 57.0, 
+                "unitPrice": 18388
+            }, 
+            {
+                "houseAreaCount": 88.33, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101223727.html", 
+                "subAreaHanzi": "十梅庵", 
+                "price": 188.0, 
+                "unitPrice": 21284
+            }, 
+            {
+                "houseAreaCount": 88.0, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101252802.html", 
+                "subAreaHanzi": "李村公园", 
+                "price": 167.0, 
+                "unitPrice": 18978
+            }, 
+            {
+                "houseAreaCount": 88.0, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101254168.html", 
+                "subAreaHanzi": "李村公园", 
+                "price": 167.0, 
+                "unitPrice": 18978
+            }, 
+            {
+                "houseAreaCount": 158.59, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101150857.html", 
+                "subAreaHanzi": "颐中体育场", 
+                "price": 453.8, 
+                "unitPrice": 28615
+            }, 
+            {
+                "houseAreaCount": 66.74, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101114904.html", 
+                "subAreaHanzi": "田家花园", 
+                "price": 132.0, 
+                "unitPrice": 19779
+            }, 
+            {
+                "houseAreaCount": 62.0, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101262023.html", 
+                "subAreaHanzi": "新贵都", 
+                "price": 148.0, 
+                "unitPrice": 23871
+            }, 
+            {
+                "houseAreaCount": 145.32, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101056360.html", 
+                "subAreaHanzi": "唐岛湾", 
+                "price": 133.0, 
+                "unitPrice": 9153
+            }, 
+            {
+                "houseAreaCount": 110.58, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103100768464.html", 
+                "subAreaHanzi": "辛安", 
+                "price": 93.0, 
+                "unitPrice": 8411
+            }, 
+            {
+                "houseAreaCount": 98.65, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101159322.html", 
+                "subAreaHanzi": "天泰", 
+                "price": 135.0, 
+                "unitPrice": 13685
+            }, 
+            {
+                "houseAreaCount": 159.13, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101210436.html", 
+                "subAreaHanzi": "积米崖", 
+                "price": 379.2, 
+                "unitPrice": 23830
+            }
+        ], 
+        "2017.05.15": [
+            {
+                "houseAreaCount": 86.53, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101254277.html", 
+                "subAreaHanzi": "海云庵", 
+                "price": 172.0, 
+                "unitPrice": 19878
+            }, 
+            {
+                "houseAreaCount": 63.27, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101302243.html", 
+                "subAreaHanzi": "理工大学", 
+                "price": 121.3, 
+                "unitPrice": 19172
+            }, 
+            {
+                "houseAreaCount": 67.57, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101298083.html", 
+                "subAreaHanzi": "错埠岭", 
+                "price": 170.0, 
+                "unitPrice": 25160
+            }, 
+            {
+                "houseAreaCount": 67.57, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101194120.html", 
+                "subAreaHanzi": "错埠岭", 
+                "price": 170.0, 
+                "unitPrice": 25160
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101263590.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 85.61, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101268515.html", 
+                "subAreaHanzi": "福州北路", 
+                "price": 180.5, 
+                "unitPrice": 21084
+            }, 
+            {
+                "houseAreaCount": 80.71, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101291095.html", 
+                "subAreaHanzi": "香江路", 
+                "price": 124.0, 
+                "unitPrice": 15364
+            }, 
+            {
+                "houseAreaCount": 124.16, 
+                "areaHanzi": "城阳", 
+                "url": "https://qd.lianjia.com/chengjiao/103101059913.html", 
+                "subAreaHanzi": "家佳源", 
+                "price": 120.0, 
+                "unitPrice": 9665
+            }, 
+            {
+                "houseAreaCount": 58.67, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101232017.html", 
+                "subAreaHanzi": "北村", 
+                "price": 143.0, 
+                "unitPrice": 24374
+            }, 
+            {
+                "houseAreaCount": 95.0, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103089732481.html", 
+                "subAreaHanzi": "雕塑园", 
+                "price": 440.0, 
+                "unitPrice": 46316
+            }, 
+            {
+                "houseAreaCount": 110.58, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101248529.html", 
+                "subAreaHanzi": "辛安", 
+                "price": 93.0, 
+                "unitPrice": 8411
+            }, 
+            {
+                "houseAreaCount": 110.0, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101241542.html", 
+                "subAreaHanzi": "黄岛区政府", 
+                "price": 127.5, 
+                "unitPrice": 11591
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101262664.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }
+        ], 
+        "2017.05.16": [
+            {
+                "houseAreaCount": 86.53, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101258249.html", 
+                "subAreaHanzi": "海云庵", 
+                "price": 172.0, 
+                "unitPrice": 19878
+            }, 
+            {
+                "houseAreaCount": 86.53, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101231279.html", 
+                "subAreaHanzi": "海云庵", 
+                "price": 172.0, 
+                "unitPrice": 19878
+            }, 
+            {
+                "houseAreaCount": 64.73, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101258382.html", 
+                "subAreaHanzi": "水清沟", 
+                "price": 40.0, 
+                "unitPrice": 6180
+            }, 
+            {
+                "houseAreaCount": 92.09, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101013865.html", 
+                "subAreaHanzi": "新都心", 
+                "price": 280.0, 
+                "unitPrice": 30406
+            }, 
+            {
+                "houseAreaCount": 95.03, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101253517.html", 
+                "subAreaHanzi": "薛家岛", 
+                "price": 128.0, 
+                "unitPrice": 13470
+            }, 
+            {
+                "houseAreaCount": 53.52, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101126395.html", 
+                "subAreaHanzi": "同安路", 
+                "price": 90.0, 
+                "unitPrice": 16817
+            }, 
+            {
+                "houseAreaCount": 91.0, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101288057.html", 
+                "subAreaHanzi": "台东", 
+                "price": 227.0, 
+                "unitPrice": 24946
+            }, 
+            {
+                "houseAreaCount": 84.0, 
+                "areaHanzi": "胶南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101118387.html", 
+                "subAreaHanzi": "东方影都", 
+                "price": 91.0, 
+                "unitPrice": 10834
+            }, 
+            {
+                "houseAreaCount": 80.71, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101302471.html", 
+                "subAreaHanzi": "香江路", 
+                "price": 124.0, 
+                "unitPrice": 15364
+            }, 
+            {
+                "houseAreaCount": 53.69, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101171793.html", 
+                "subAreaHanzi": "下王埠", 
+                "price": 150.0, 
+                "unitPrice": 27939
+            }, 
+            {
+                "houseAreaCount": 91.65, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101311755.html", 
+                "subAreaHanzi": "流亭", 
+                "price": 150.0, 
+                "unitPrice": 16367
+            }, 
+            {
+                "houseAreaCount": 83.95, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103100918784.html", 
+                "subAreaHanzi": "东李", 
+                "price": 110.0, 
+                "unitPrice": 13104
+            }, 
+            {
+                "houseAreaCount": 88.0, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101312314.html", 
+                "subAreaHanzi": "李村公园", 
+                "price": 167.0, 
+                "unitPrice": 18978
+            }, 
+            {
+                "houseAreaCount": 83.43, 
+                "areaHanzi": "城阳", 
+                "url": "https://qd.lianjia.com/chengjiao/103101204024.html", 
+                "subAreaHanzi": "农业大学", 
+                "price": 98.3, 
+                "unitPrice": 11783
+            }, 
+            {
+                "houseAreaCount": 99.94, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101114659.html", 
+                "subAreaHanzi": "五四广场", 
+                "price": 140.0, 
+                "unitPrice": 14009
+            }, 
+            {
+                "houseAreaCount": 98.65, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101309026.html", 
+                "subAreaHanzi": "天泰", 
+                "price": 135.0, 
+                "unitPrice": 13685
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101186711.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }, 
+            {
+                "houseAreaCount": 91.79, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101177726.html", 
+                "subAreaHanzi": "金沙滩", 
+                "price": 141.0, 
+                "unitPrice": 15362
+            }
+        ], 
+        "2017.05.17": [
+            {
+                "houseAreaCount": 86.53, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101270171.html", 
+                "subAreaHanzi": "海云庵", 
+                "price": 172.0, 
+                "unitPrice": 19878
+            }, 
+            {
+                "houseAreaCount": 64.73, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101315728.html", 
+                "subAreaHanzi": "水清沟", 
+                "price": 40.0, 
+                "unitPrice": 6180
+            }, 
+            {
+                "houseAreaCount": 64.73, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101270219.html", 
+                "subAreaHanzi": "水清沟", 
+                "price": 40.0, 
+                "unitPrice": 6180
+            }, 
+            {
+                "houseAreaCount": 92.09, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101183171.html", 
+                "subAreaHanzi": "新都心", 
+                "price": 280.0, 
+                "unitPrice": 30406
+            }, 
+            {
+                "houseAreaCount": 67.57, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101212300.html", 
+                "subAreaHanzi": "错埠岭", 
+                "price": 170.0, 
+                "unitPrice": 25160
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101304231.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 53.52, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101247782.html", 
+                "subAreaHanzi": "同安路", 
+                "price": 90.0, 
+                "unitPrice": 16817
+            }, 
+            {
+                "houseAreaCount": 67.84, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101224219.html", 
+                "subAreaHanzi": "枣儿山", 
+                "price": 100.7, 
+                "unitPrice": 14844
+            }, 
+            {
+                "houseAreaCount": 83.43, 
+                "areaHanzi": "城阳", 
+                "url": "https://qd.lianjia.com/chengjiao/103101217078.html", 
+                "subAreaHanzi": "农业大学", 
+                "price": 98.3, 
+                "unitPrice": 11783
+            }, 
+            {
+                "houseAreaCount": 106.88, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103100729627.html", 
+                "subAreaHanzi": "西姜", 
+                "price": 225.0, 
+                "unitPrice": 21052
+            }, 
+            {
+                "houseAreaCount": 62.0, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101232809.html", 
+                "subAreaHanzi": "新贵都", 
+                "price": 148.0, 
+                "unitPrice": 23871
+            }, 
+            {
+                "houseAreaCount": 145.32, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101276636.html", 
+                "subAreaHanzi": "唐岛湾", 
+                "price": 133.0, 
+                "unitPrice": 9153
+            }, 
+            {
+                "houseAreaCount": 98.65, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101157009.html", 
+                "subAreaHanzi": "天泰", 
+                "price": 135.0, 
+                "unitPrice": 13685
+            }, 
+            {
+                "houseAreaCount": 159.13, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101151122.html", 
+                "subAreaHanzi": "积米崖", 
+                "price": 379.2, 
+                "unitPrice": 23830
+            }, 
+            {
+                "houseAreaCount": 159.13, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101290770.html", 
+                "subAreaHanzi": "积米崖", 
+                "price": 379.2, 
+                "unitPrice": 23830
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101140261.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101175665.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }, 
+            {
+                "houseAreaCount": 107.49, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101305644.html", 
+                "subAreaHanzi": "石油大学", 
+                "price": 172.0, 
+                "unitPrice": 16002
+            }
+        ], 
+        "2017.05.07": [
+            {
+                "houseAreaCount": 96.59, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101134861.html", 
+                "subAreaHanzi": "中央CBD", 
+                "price": 284.5, 
+                "unitPrice": 29455
+            }, 
+            {
+                "houseAreaCount": 95.03, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101247876.html", 
+                "subAreaHanzi": "薛家岛", 
+                "price": 128.0, 
+                "unitPrice": 13470
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101189189.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101270679.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 31.0, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101179681.html", 
+                "subAreaHanzi": "书院路", 
+                "price": 57.0, 
+                "unitPrice": 18388
+            }, 
+            {
+                "houseAreaCount": 31.0, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101211568.html", 
+                "subAreaHanzi": "书院路", 
+                "price": 57.0, 
+                "unitPrice": 18388
+            }, 
+            {
+                "houseAreaCount": 91.65, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101278926.html", 
+                "subAreaHanzi": "流亭", 
+                "price": 150.0, 
+                "unitPrice": 16367
+            }, 
+            {
+                "houseAreaCount": 58.67, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101162057.html", 
+                "subAreaHanzi": "北村", 
+                "price": 143.0, 
+                "unitPrice": 24374
+            }, 
+            {
+                "houseAreaCount": 145.32, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101126457.html", 
+                "subAreaHanzi": "唐岛湾", 
+                "price": 133.0, 
+                "unitPrice": 9153
+            }, 
+            {
+                "houseAreaCount": 110.58, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101144500.html", 
+                "subAreaHanzi": "辛安", 
+                "price": 93.0, 
+                "unitPrice": 8411
+            }, 
+            {
+                "houseAreaCount": 110.0, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101195011.html", 
+                "subAreaHanzi": "黄岛区政府", 
+                "price": 127.5, 
+                "unitPrice": 11591
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101139818.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }, 
+            {
+                "houseAreaCount": 90.0, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101152406.html", 
+                "subAreaHanzi": "灵山卫", 
+                "price": 110.0, 
+                "unitPrice": 12223
+            }
+        ], 
+        "2017.05.02": [
+            {
+                "houseAreaCount": 67.57, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101064376.html", 
+                "subAreaHanzi": "错埠岭", 
+                "price": 170.0, 
+                "unitPrice": 25160
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101261259.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101236211.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 85.61, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101182429.html", 
+                "subAreaHanzi": "福州北路", 
+                "price": 180.5, 
+                "unitPrice": 21084
+            }, 
+            {
+                "houseAreaCount": 55.95, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101242230.html", 
+                "subAreaHanzi": "镇江路", 
+                "price": 90.0, 
+                "unitPrice": 16086
+            }, 
+            {
+                "houseAreaCount": 55.95, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101243820.html", 
+                "subAreaHanzi": "镇江路", 
+                "price": 90.0, 
+                "unitPrice": 16086
+            }, 
+            {
+                "houseAreaCount": 80.71, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101209788.html", 
+                "subAreaHanzi": "香江路", 
+                "price": 124.0, 
+                "unitPrice": 15364
+            }, 
+            {
+                "houseAreaCount": 31.0, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101189945.html", 
+                "subAreaHanzi": "书院路", 
+                "price": 57.0, 
+                "unitPrice": 18388
+            }, 
+            {
+                "houseAreaCount": 88.33, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101193540.html", 
+                "subAreaHanzi": "十梅庵", 
+                "price": 188.0, 
+                "unitPrice": 21284
+            }, 
+            {
+                "houseAreaCount": 158.59, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101197661.html", 
+                "subAreaHanzi": "颐中体育场", 
+                "price": 453.8, 
+                "unitPrice": 28615
+            }, 
+            {
+                "houseAreaCount": 46.14, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103100899764.html", 
+                "subAreaHanzi": "大尧", 
+                "price": 98.5, 
+                "unitPrice": 21349
+            }, 
+            {
+                "houseAreaCount": 145.32, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101165206.html", 
+                "subAreaHanzi": "唐岛湾", 
+                "price": 133.0, 
+                "unitPrice": 9153
+            }, 
+            {
+                "houseAreaCount": 98.65, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101028895.html", 
+                "subAreaHanzi": "天泰", 
+                "price": 135.0, 
+                "unitPrice": 13685
+            }
+        ], 
+        "2017.05.01": [
+            {
+                "houseAreaCount": 99.94, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101261105.html", 
+                "subAreaHanzi": "五四广场", 
+                "price": 140.0, 
+                "unitPrice": 14009
+            }
+        ], 
+        "2017.05.06": [
+            {
+                "houseAreaCount": 62.94, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101265198.html", 
+                "subAreaHanzi": "四方实验小区", 
+                "price": 112.5, 
+                "unitPrice": 17875
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103100793104.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101255554.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 78.18, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101259338.html", 
+                "subAreaHanzi": "海泊河", 
+                "price": 96.2, 
+                "unitPrice": 12305
+            }, 
+            {
+                "houseAreaCount": 53.52, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101171441.html", 
+                "subAreaHanzi": "同安路", 
+                "price": 90.0, 
+                "unitPrice": 16817
+            }, 
+            {
+                "houseAreaCount": 31.0, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101119220.html", 
+                "subAreaHanzi": "书院路", 
+                "price": 57.0, 
+                "unitPrice": 18388
+            }, 
+            {
+                "houseAreaCount": 53.69, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101153668.html", 
+                "subAreaHanzi": "下王埠", 
+                "price": 150.0, 
+                "unitPrice": 27939
+            }, 
+            {
+                "houseAreaCount": 88.33, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101241238.html", 
+                "subAreaHanzi": "十梅庵", 
+                "price": 188.0, 
+                "unitPrice": 21284
+            }, 
+            {
+                "houseAreaCount": 136.37, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103089581387.html", 
+                "subAreaHanzi": "麦岛", 
+                "price": 575.0, 
+                "unitPrice": 42165
+            }, 
+            {
+                "houseAreaCount": 107.49, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101241177.html", 
+                "subAreaHanzi": "石油大学", 
+                "price": 172.0, 
+                "unitPrice": 16002
+            }
+        ], 
+        "2017.05.05": [
+            {
+                "houseAreaCount": 95.03, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101198693.html", 
+                "subAreaHanzi": "薛家岛", 
+                "price": 128.0, 
+                "unitPrice": 13470
+            }, 
+            {
+                "houseAreaCount": 67.57, 
+                "areaHanzi": "市北", 
+                "url": "https://qd.lianjia.com/chengjiao/103101042158.html", 
+                "subAreaHanzi": "错埠岭", 
+                "price": 170.0, 
+                "unitPrice": 25160
+            }, 
+            {
+                "houseAreaCount": 84.0, 
+                "areaHanzi": "胶南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101261128.html", 
+                "subAreaHanzi": "东方影都", 
+                "price": 91.0, 
+                "unitPrice": 10834
+            }, 
+            {
+                "houseAreaCount": 80.89, 
+                "areaHanzi": "四方", 
+                "url": "https://qd.lianjia.com/chengjiao/103101149088.html", 
+                "subAreaHanzi": "大沙路", 
+                "price": 175.0, 
+                "unitPrice": 21635
+            }, 
+            {
+                "houseAreaCount": 88.33, 
+                "areaHanzi": "李沧", 
+                "url": "https://qd.lianjia.com/chengjiao/103101254295.html", 
+                "subAreaHanzi": "十梅庵", 
+                "price": 188.0, 
+                "unitPrice": 21284
+            }, 
+            {
+                "houseAreaCount": 158.59, 
+                "areaHanzi": "崂山", 
+                "url": "https://qd.lianjia.com/chengjiao/103101249807.html", 
+                "subAreaHanzi": "颐中体育场", 
+                "price": 453.8, 
+                "unitPrice": 28615
+            }, 
+            {
+                "houseAreaCount": 103.6, 
+                "areaHanzi": "市南", 
+                "url": "https://qd.lianjia.com/chengjiao/103101262074.html", 
+                "subAreaHanzi": "闽江路", 
+                "price": 263.0, 
+                "unitPrice": 25387
+            }, 
+            {
+                "houseAreaCount": 110.58, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101236773.html", 
+                "subAreaHanzi": "辛安", 
+                "price": 93.0, 
+                "unitPrice": 8411
+            }, 
+            {
+                "houseAreaCount": 98.65, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101208269.html", 
+                "subAreaHanzi": "天泰", 
+                "price": 135.0, 
+                "unitPrice": 13685
+            }, 
+            {
+                "houseAreaCount": 98.65, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103100826373.html", 
+                "subAreaHanzi": "天泰", 
+                "price": 135.0, 
+                "unitPrice": 13685
+            }, 
+            {
+                "houseAreaCount": 104.73, 
+                "areaHanzi": "黄岛", 
+                "url": "https://qd.lianjia.com/chengjiao/103101260919.html", 
+                "subAreaHanzi": "保税区", 
+                "price": 119.5, 
+                "unitPrice": 11411
+            }
+        ]
+    }, 
+    "areaDealData": {
+        "huangdao": {
+            "2017.05.18": [
+                {
+                    "houseAreaCount": 80.71, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101116649.html", 
+                    "subAreaHanzi": "香江路", 
+                    "price": 124.0, 
+                    "unitPrice": 15364
+                }, 
+                {
+                    "houseAreaCount": 145.32, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101145486.html", 
+                    "subAreaHanzi": "唐岛湾", 
+                    "price": 133.0, 
+                    "unitPrice": 9153
+                }, 
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101215915.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }, 
+                {
+                    "houseAreaCount": 91.79, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101303468.html", 
+                    "subAreaHanzi": "金沙滩", 
+                    "price": 141.0, 
+                    "unitPrice": 15362
+                }
+            ], 
+            "2017.05.19": [
+                {
+                    "houseAreaCount": 110.58, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101284515.html", 
+                    "subAreaHanzi": "辛安", 
+                    "price": 93.0, 
+                    "unitPrice": 8411
+                }, 
+                {
+                    "houseAreaCount": 159.13, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101272908.html", 
+                    "subAreaHanzi": "积米崖", 
+                    "price": 379.2, 
+                    "unitPrice": 23830
+                }
+            ], 
+            "2017.05.13": [
+                {
+                    "houseAreaCount": 145.32, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101176463.html", 
+                    "subAreaHanzi": "唐岛湾", 
+                    "price": 133.0, 
+                    "unitPrice": 9153
+                }
+            ], 
+            "2017.05.09": [
+                {
+                    "houseAreaCount": 80.71, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101281107.html", 
+                    "subAreaHanzi": "香江路", 
+                    "price": 124.0, 
+                    "unitPrice": 15364
+                }, 
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101273363.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }
+            ], 
+            "2017.05.08": [
+                {
+                    "houseAreaCount": 80.71, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101175535.html", 
+                    "subAreaHanzi": "香江路", 
+                    "price": 124.0, 
+                    "unitPrice": 15364
+                }, 
+                {
+                    "houseAreaCount": 80.71, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101262984.html", 
+                    "subAreaHanzi": "香江路", 
+                    "price": 124.0, 
+                    "unitPrice": 15364
+                }, 
+                {
+                    "houseAreaCount": 80.71, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101266645.html", 
+                    "subAreaHanzi": "香江路", 
+                    "price": 124.0, 
+                    "unitPrice": 15364
+                }, 
+                {
+                    "houseAreaCount": 80.71, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101194157.html", 
+                    "subAreaHanzi": "香江路", 
+                    "price": 124.0, 
+                    "unitPrice": 15364
+                }, 
+                {
+                    "houseAreaCount": 98.65, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101055923.html", 
+                    "subAreaHanzi": "天泰", 
+                    "price": 135.0, 
+                    "unitPrice": 13685
+                }, 
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101278547.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }
+            ], 
+            "2017.05.07": [
+                {
+                    "houseAreaCount": 95.03, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101247876.html", 
+                    "subAreaHanzi": "薛家岛", 
+                    "price": 128.0, 
+                    "unitPrice": 13470
+                }, 
+                {
+                    "houseAreaCount": 145.32, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101126457.html", 
+                    "subAreaHanzi": "唐岛湾", 
+                    "price": 133.0, 
+                    "unitPrice": 9153
+                }, 
+                {
+                    "houseAreaCount": 110.58, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101144500.html", 
+                    "subAreaHanzi": "辛安", 
+                    "price": 93.0, 
+                    "unitPrice": 8411
+                }, 
+                {
+                    "houseAreaCount": 110.0, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101195011.html", 
+                    "subAreaHanzi": "黄岛区政府", 
+                    "price": 127.5, 
+                    "unitPrice": 11591
+                }, 
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101139818.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }, 
+                {
+                    "houseAreaCount": 90.0, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101152406.html", 
+                    "subAreaHanzi": "灵山卫", 
+                    "price": 110.0, 
+                    "unitPrice": 12223
+                }
+            ], 
+            "2017.05.14": [
+                {
+                    "houseAreaCount": 95.03, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101126326.html", 
+                    "subAreaHanzi": "薛家岛", 
+                    "price": 128.0, 
+                    "unitPrice": 13470
+                }, 
+                {
+                    "houseAreaCount": 159.13, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101294414.html", 
+                    "subAreaHanzi": "积米崖", 
+                    "price": 379.2, 
+                    "unitPrice": 23830
+                }, 
+                {
+                    "houseAreaCount": 159.13, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101285341.html", 
+                    "subAreaHanzi": "积米崖", 
+                    "price": 379.2, 
+                    "unitPrice": 23830
+                }, 
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101227735.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }
+            ], 
+            "2017.05.05": [
+                {
+                    "houseAreaCount": 95.03, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101198693.html", 
+                    "subAreaHanzi": "薛家岛", 
+                    "price": 128.0, 
+                    "unitPrice": 13470
+                }, 
+                {
+                    "houseAreaCount": 110.58, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101236773.html", 
+                    "subAreaHanzi": "辛安", 
+                    "price": 93.0, 
+                    "unitPrice": 8411
+                }, 
+                {
+                    "houseAreaCount": 98.65, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101208269.html", 
+                    "subAreaHanzi": "天泰", 
+                    "price": 135.0, 
+                    "unitPrice": 13685
+                }, 
+                {
+                    "houseAreaCount": 98.65, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100826373.html", 
+                    "subAreaHanzi": "天泰", 
+                    "price": 135.0, 
+                    "unitPrice": 13685
+                }, 
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101260919.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }
+            ], 
+            "2017.05.04": [
+                {
+                    "houseAreaCount": 95.03, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101177796.html", 
+                    "subAreaHanzi": "薛家岛", 
+                    "price": 128.0, 
+                    "unitPrice": 13470
+                }, 
+                {
+                    "houseAreaCount": 95.03, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101075090.html", 
+                    "subAreaHanzi": "薛家岛", 
+                    "price": 128.0, 
+                    "unitPrice": 13470
+                }, 
+                {
+                    "houseAreaCount": 145.32, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101160248.html", 
+                    "subAreaHanzi": "唐岛湾", 
+                    "price": 133.0, 
+                    "unitPrice": 9153
+                }, 
+                {
+                    "houseAreaCount": 145.32, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101022696.html", 
+                    "subAreaHanzi": "唐岛湾", 
+                    "price": 133.0, 
+                    "unitPrice": 9153
+                }, 
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101253244.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }
+            ], 
+            "2017.05.03": [
+                {
+                    "houseAreaCount": 95.03, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101093505.html", 
+                    "subAreaHanzi": "薛家岛", 
+                    "price": 128.0, 
+                    "unitPrice": 13470
+                }, 
+                {
+                    "houseAreaCount": 145.32, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101056360.html", 
+                    "subAreaHanzi": "唐岛湾", 
+                    "price": 133.0, 
+                    "unitPrice": 9153
+                }, 
+                {
+                    "houseAreaCount": 110.58, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100768464.html", 
+                    "subAreaHanzi": "辛安", 
+                    "price": 93.0, 
+                    "unitPrice": 8411
+                }, 
+                {
+                    "houseAreaCount": 98.65, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101159322.html", 
+                    "subAreaHanzi": "天泰", 
+                    "price": 135.0, 
+                    "unitPrice": 13685
+                }, 
+                {
+                    "houseAreaCount": 159.13, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101210436.html", 
+                    "subAreaHanzi": "积米崖", 
+                    "price": 379.2, 
+                    "unitPrice": 23830
+                }
+            ], 
+            "2017.05.15": [
+                {
+                    "houseAreaCount": 80.71, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101291095.html", 
+                    "subAreaHanzi": "香江路", 
+                    "price": 124.0, 
+                    "unitPrice": 15364
+                }, 
+                {
+                    "houseAreaCount": 110.58, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101248529.html", 
+                    "subAreaHanzi": "辛安", 
+                    "price": 93.0, 
+                    "unitPrice": 8411
+                }, 
+                {
+                    "houseAreaCount": 110.0, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101241542.html", 
+                    "subAreaHanzi": "黄岛区政府", 
+                    "price": 127.5, 
+                    "unitPrice": 11591
+                }, 
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101262664.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }
+            ], 
+            "2017.05.16": [
+                {
+                    "houseAreaCount": 95.03, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101253517.html", 
+                    "subAreaHanzi": "薛家岛", 
+                    "price": 128.0, 
+                    "unitPrice": 13470
+                }, 
+                {
+                    "houseAreaCount": 80.71, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101302471.html", 
+                    "subAreaHanzi": "香江路", 
+                    "price": 124.0, 
+                    "unitPrice": 15364
+                }, 
+                {
+                    "houseAreaCount": 98.65, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101309026.html", 
+                    "subAreaHanzi": "天泰", 
+                    "price": 135.0, 
+                    "unitPrice": 13685
+                }, 
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101186711.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }, 
+                {
+                    "houseAreaCount": 91.79, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101177726.html", 
+                    "subAreaHanzi": "金沙滩", 
+                    "price": 141.0, 
+                    "unitPrice": 15362
+                }
+            ], 
+            "2017.05.02": [
+                {
+                    "houseAreaCount": 80.71, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101209788.html", 
+                    "subAreaHanzi": "香江路", 
+                    "price": 124.0, 
+                    "unitPrice": 15364
+                }, 
+                {
+                    "houseAreaCount": 145.32, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101165206.html", 
+                    "subAreaHanzi": "唐岛湾", 
+                    "price": 133.0, 
+                    "unitPrice": 9153
+                }, 
+                {
+                    "houseAreaCount": 98.65, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101028895.html", 
+                    "subAreaHanzi": "天泰", 
+                    "price": 135.0, 
+                    "unitPrice": 13685
+                }
+            ], 
+            "2017.05.10": [
+                {
+                    "houseAreaCount": 80.71, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101268742.html", 
+                    "subAreaHanzi": "香江路", 
+                    "price": 124.0, 
+                    "unitPrice": 15364
+                }, 
+                {
+                    "houseAreaCount": 145.32, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101184202.html", 
+                    "subAreaHanzi": "唐岛湾", 
+                    "price": 133.0, 
+                    "unitPrice": 9153
+                }, 
+                {
+                    "houseAreaCount": 145.32, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101286131.html", 
+                    "subAreaHanzi": "唐岛湾", 
+                    "price": 133.0, 
+                    "unitPrice": 9153
+                }, 
+                {
+                    "houseAreaCount": 145.32, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101252968.html", 
+                    "subAreaHanzi": "唐岛湾", 
+                    "price": 133.0, 
+                    "unitPrice": 9153
+                }, 
+                {
+                    "houseAreaCount": 145.32, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101281072.html", 
+                    "subAreaHanzi": "唐岛湾", 
+                    "price": 133.0, 
+                    "unitPrice": 9153
+                }, 
+                {
+                    "houseAreaCount": 110.0, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101272447.html", 
+                    "subAreaHanzi": "黄岛区政府", 
+                    "price": 127.5, 
+                    "unitPrice": 11591
+                }, 
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101190593.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }
+            ], 
+            "2017.05.11": [
+                {
+                    "houseAreaCount": 80.71, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101288710.html", 
+                    "subAreaHanzi": "香江路", 
+                    "price": 124.0, 
+                    "unitPrice": 15364
+                }, 
+                {
+                    "houseAreaCount": 80.71, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101283494.html", 
+                    "subAreaHanzi": "香江路", 
+                    "price": 124.0, 
+                    "unitPrice": 15364
+                }, 
+                {
+                    "houseAreaCount": 159.13, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101267208.html", 
+                    "subAreaHanzi": "积米崖", 
+                    "price": 379.2, 
+                    "unitPrice": 23830
+                }
+            ], 
+            "2017.05.06": [
+                {
+                    "houseAreaCount": 107.49, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101241177.html", 
+                    "subAreaHanzi": "石油大学", 
+                    "price": 172.0, 
+                    "unitPrice": 16002
+                }
+            ], 
+            "2017.05.17": [
+                {
+                    "houseAreaCount": 145.32, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101276636.html", 
+                    "subAreaHanzi": "唐岛湾", 
+                    "price": 133.0, 
+                    "unitPrice": 9153
+                }, 
+                {
+                    "houseAreaCount": 98.65, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101157009.html", 
+                    "subAreaHanzi": "天泰", 
+                    "price": 135.0, 
+                    "unitPrice": 13685
+                }, 
+                {
+                    "houseAreaCount": 159.13, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101151122.html", 
+                    "subAreaHanzi": "积米崖", 
+                    "price": 379.2, 
+                    "unitPrice": 23830
+                }, 
+                {
+                    "houseAreaCount": 159.13, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101290770.html", 
+                    "subAreaHanzi": "积米崖", 
+                    "price": 379.2, 
+                    "unitPrice": 23830
+                }, 
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101140261.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }, 
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101175665.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }, 
+                {
+                    "houseAreaCount": 107.49, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101305644.html", 
+                    "subAreaHanzi": "石油大学", 
+                    "price": 172.0, 
+                    "unitPrice": 16002
+                }
+            ], 
+            "2017.05.12": [
+                {
+                    "houseAreaCount": 104.73, 
+                    "areaHanzi": "黄岛", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101241369.html", 
+                    "subAreaHanzi": "保税区", 
+                    "price": 119.5, 
+                    "unitPrice": 11411
+                }
+            ]
+        }, 
+        "pingdu": {}, 
+        "chengyang": {
+            "2017.05.04": [
+                {
+                    "houseAreaCount": 75.1, 
+                    "areaHanzi": "城阳", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101252451.html", 
+                    "subAreaHanzi": "瑞阳路", 
+                    "price": 85.0, 
+                    "unitPrice": 11319
+                }
+            ], 
+            "2017.05.09": [
+                {
+                    "houseAreaCount": 83.43, 
+                    "areaHanzi": "城阳", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101215690.html", 
+                    "subAreaHanzi": "农业大学", 
+                    "price": 98.3, 
+                    "unitPrice": 11783
+                }
+            ], 
+            "2017.05.13": [
+                {
+                    "houseAreaCount": 85.43, 
+                    "areaHanzi": "城阳", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101145579.html", 
+                    "subAreaHanzi": "太阳城", 
+                    "price": 84.0, 
+                    "unitPrice": 9833
+                }, 
+                {
+                    "houseAreaCount": 85.43, 
+                    "areaHanzi": "城阳", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101292826.html", 
+                    "subAreaHanzi": "太阳城", 
+                    "price": 84.0, 
+                    "unitPrice": 9833
+                }, 
+                {
+                    "houseAreaCount": 83.43, 
+                    "areaHanzi": "城阳", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101201119.html", 
+                    "subAreaHanzi": "农业大学", 
+                    "price": 98.3, 
+                    "unitPrice": 11783
+                }, 
+                {
+                    "houseAreaCount": 83.43, 
+                    "areaHanzi": "城阳", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101263381.html", 
+                    "subAreaHanzi": "农业大学", 
+                    "price": 98.3, 
+                    "unitPrice": 11783
+                }
+            ], 
+            "2017.05.14": [
+                {
+                    "houseAreaCount": 98.0, 
+                    "areaHanzi": "城阳", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101182918.html", 
+                    "subAreaHanzi": "城阳实验二小", 
+                    "price": 126.0, 
+                    "unitPrice": 12858
+                }, 
+                {
+                    "houseAreaCount": 98.0, 
+                    "areaHanzi": "城阳", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101163490.html", 
+                    "subAreaHanzi": "城阳实验二小", 
+                    "price": 126.0, 
+                    "unitPrice": 12858
+                }
+            ], 
+            "2017.05.15": [
+                {
+                    "houseAreaCount": 124.16, 
+                    "areaHanzi": "城阳", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101059913.html", 
+                    "subAreaHanzi": "家佳源", 
+                    "price": 120.0, 
+                    "unitPrice": 9665
+                }
+            ], 
+            "2017.05.16": [
+                {
+                    "houseAreaCount": 83.43, 
+                    "areaHanzi": "城阳", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101204024.html", 
+                    "subAreaHanzi": "农业大学", 
+                    "price": 98.3, 
+                    "unitPrice": 11783
+                }
+            ], 
+            "2017.05.17": [
+                {
+                    "houseAreaCount": 83.43, 
+                    "areaHanzi": "城阳", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101217078.html", 
+                    "subAreaHanzi": "农业大学", 
+                    "price": 98.3, 
+                    "unitPrice": 11783
+                }
+            ]
+        }, 
+        "shinan": {
+            "2017.05.18": [
+                {
+                    "houseAreaCount": 109.81, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100845905.html", 
+                    "subAreaHanzi": "奥帆中心", 
+                    "price": 300.0, 
+                    "unitPrice": 27320
+                }
+            ], 
+            "2017.05.19": [
+                {
+                    "houseAreaCount": 66.74, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101300819.html", 
+                    "subAreaHanzi": "田家花园", 
+                    "price": 132.0, 
+                    "unitPrice": 19779
+                }
+            ], 
+            "2017.05.14": [
+                {
+                    "houseAreaCount": 66.74, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101278823.html", 
+                    "subAreaHanzi": "田家花园", 
+                    "price": 132.0, 
+                    "unitPrice": 19779
+                }, 
+                {
+                    "houseAreaCount": 61.46, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101150820.html", 
+                    "subAreaHanzi": "湛山", 
+                    "price": 245.0, 
+                    "unitPrice": 39864
+                }
+            ], 
+            "2017.05.13": [
+                {
+                    "houseAreaCount": 66.74, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101263523.html", 
+                    "subAreaHanzi": "田家花园", 
+                    "price": 132.0, 
+                    "unitPrice": 19779
+                }, 
+                {
+                    "houseAreaCount": 66.74, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101260260.html", 
+                    "subAreaHanzi": "田家花园", 
+                    "price": 132.0, 
+                    "unitPrice": 19779
+                }, 
+                {
+                    "houseAreaCount": 99.94, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103089792783.html", 
+                    "subAreaHanzi": "五四广场", 
+                    "price": 140.0, 
+                    "unitPrice": 14009
+                }, 
+                {
+                    "houseAreaCount": 99.94, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101132491.html", 
+                    "subAreaHanzi": "五四广场", 
+                    "price": 140.0, 
+                    "unitPrice": 14009
+                }
+            ], 
+            "2017.05.09": [
+                {
+                    "houseAreaCount": 55.95, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101016305.html", 
+                    "subAreaHanzi": "镇江路", 
+                    "price": 90.0, 
+                    "unitPrice": 16086
+                }, 
+                {
+                    "houseAreaCount": 103.6, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101152658.html", 
+                    "subAreaHanzi": "闽江路", 
+                    "price": 263.0, 
+                    "unitPrice": 25387
+                }, 
+                {
+                    "houseAreaCount": 53.43, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101247426.html", 
+                    "subAreaHanzi": "大学路", 
+                    "price": 250.0, 
+                    "unitPrice": 46791
+                }, 
+                {
+                    "houseAreaCount": 46.14, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101197449.html", 
+                    "subAreaHanzi": "大尧", 
+                    "price": 98.5, 
+                    "unitPrice": 21349
+                }, 
+                {
+                    "houseAreaCount": 56.42, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101037649.html", 
+                    "subAreaHanzi": "八大湖", 
+                    "price": 117.0, 
+                    "unitPrice": 20738
+                }
+            ], 
+            "2017.05.08": [
+                {
+                    "houseAreaCount": 46.14, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101100094.html", 
+                    "subAreaHanzi": "大尧", 
+                    "price": 98.5, 
+                    "unitPrice": 21349
+                }
+            ], 
+            "2017.05.10": [
+                {
+                    "houseAreaCount": 96.59, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101237302.html", 
+                    "subAreaHanzi": "中央CBD", 
+                    "price": 284.5, 
+                    "unitPrice": 29455
+                }, 
+                {
+                    "houseAreaCount": 96.59, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101095817.html", 
+                    "subAreaHanzi": "中央CBD", 
+                    "price": 284.5, 
+                    "unitPrice": 29455
+                }, 
+                {
+                    "houseAreaCount": 55.95, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100786841.html", 
+                    "subAreaHanzi": "镇江路", 
+                    "price": 90.0, 
+                    "unitPrice": 16086
+                }, 
+                {
+                    "houseAreaCount": 55.95, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101267071.html", 
+                    "subAreaHanzi": "镇江路", 
+                    "price": 90.0, 
+                    "unitPrice": 16086
+                }, 
+                {
+                    "houseAreaCount": 103.6, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101280690.html", 
+                    "subAreaHanzi": "闽江路", 
+                    "price": 263.0, 
+                    "unitPrice": 25387
+                }, 
+                {
+                    "houseAreaCount": 103.6, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101275195.html", 
+                    "subAreaHanzi": "闽江路", 
+                    "price": 263.0, 
+                    "unitPrice": 25387
+                }, 
+                {
+                    "houseAreaCount": 62.0, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101087636.html", 
+                    "subAreaHanzi": "新贵都", 
+                    "price": 148.0, 
+                    "unitPrice": 23871
+                }, 
+                {
+                    "houseAreaCount": 62.0, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101279825.html", 
+                    "subAreaHanzi": "新贵都", 
+                    "price": 148.0, 
+                    "unitPrice": 23871
+                }, 
+                {
+                    "houseAreaCount": 61.46, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101286620.html", 
+                    "subAreaHanzi": "湛山", 
+                    "price": 245.0, 
+                    "unitPrice": 39864
+                }
+            ], 
+            "2017.05.11": [
+                {
+                    "houseAreaCount": 96.59, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101210828.html", 
+                    "subAreaHanzi": "中央CBD", 
+                    "price": 284.5, 
+                    "unitPrice": 29455
+                }
+            ], 
+            "2017.05.05": [
+                {
+                    "houseAreaCount": 103.6, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101262074.html", 
+                    "subAreaHanzi": "闽江路", 
+                    "price": 263.0, 
+                    "unitPrice": 25387
+                }
+            ], 
+            "2017.05.04": [
+                {
+                    "houseAreaCount": 96.59, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101015457.html", 
+                    "subAreaHanzi": "中央CBD", 
+                    "price": 284.5, 
+                    "unitPrice": 29455
+                }, 
+                {
+                    "houseAreaCount": 103.6, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101054937.html", 
+                    "subAreaHanzi": "闽江路", 
+                    "price": 263.0, 
+                    "unitPrice": 25387
+                }, 
+                {
+                    "houseAreaCount": 88.0, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101156270.html", 
+                    "subAreaHanzi": "天山银海", 
+                    "price": 249.5, 
+                    "unitPrice": 28353
+                }, 
+                {
+                    "houseAreaCount": 66.74, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100661778.html", 
+                    "subAreaHanzi": "田家花园", 
+                    "price": 132.0, 
+                    "unitPrice": 19779
+                }, 
+                {
+                    "houseAreaCount": 66.74, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101142391.html", 
+                    "subAreaHanzi": "田家花园", 
+                    "price": 132.0, 
+                    "unitPrice": 19779
+                }
+            ], 
+            "2017.05.03": [
+                {
+                    "houseAreaCount": 96.59, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101245105.html", 
+                    "subAreaHanzi": "中央CBD", 
+                    "price": 284.5, 
+                    "unitPrice": 29455
+                }, 
+                {
+                    "houseAreaCount": 55.95, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101218927.html", 
+                    "subAreaHanzi": "镇江路", 
+                    "price": 90.0, 
+                    "unitPrice": 16086
+                }, 
+                {
+                    "houseAreaCount": 66.74, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101114904.html", 
+                    "subAreaHanzi": "田家花园", 
+                    "price": 132.0, 
+                    "unitPrice": 19779
+                }, 
+                {
+                    "houseAreaCount": 62.0, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101262023.html", 
+                    "subAreaHanzi": "新贵都", 
+                    "price": 148.0, 
+                    "unitPrice": 23871
+                }
+            ], 
+            "2017.05.02": [
+                {
+                    "houseAreaCount": 55.95, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101242230.html", 
+                    "subAreaHanzi": "镇江路", 
+                    "price": 90.0, 
+                    "unitPrice": 16086
+                }, 
+                {
+                    "houseAreaCount": 55.95, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101243820.html", 
+                    "subAreaHanzi": "镇江路", 
+                    "price": 90.0, 
+                    "unitPrice": 16086
+                }, 
+                {
+                    "houseAreaCount": 46.14, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100899764.html", 
+                    "subAreaHanzi": "大尧", 
+                    "price": 98.5, 
+                    "unitPrice": 21349
+                }
+            ], 
+            "2017.05.16": [
+                {
+                    "houseAreaCount": 99.94, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101114659.html", 
+                    "subAreaHanzi": "五四广场", 
+                    "price": 140.0, 
+                    "unitPrice": 14009
+                }
+            ], 
+            "2017.05.17": [
+                {
+                    "houseAreaCount": 62.0, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101232809.html", 
+                    "subAreaHanzi": "新贵都", 
+                    "price": 148.0, 
+                    "unitPrice": 23871
+                }
+            ], 
+            "2017.05.07": [
+                {
+                    "houseAreaCount": 96.59, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101134861.html", 
+                    "subAreaHanzi": "中央CBD", 
+                    "price": 284.5, 
+                    "unitPrice": 29455
+                }
+            ], 
+            "2017.05.01": [
+                {
+                    "houseAreaCount": 99.94, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101261105.html", 
+                    "subAreaHanzi": "五四广场", 
+                    "price": 140.0, 
+                    "unitPrice": 14009
+                }
+            ], 
+            "2017.05.06": [
+                {
+                    "houseAreaCount": 136.37, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103089581387.html", 
+                    "subAreaHanzi": "麦岛", 
+                    "price": 575.0, 
+                    "unitPrice": 42165
+                }
+            ], 
+            "2017.05.12": [
+                {
+                    "houseAreaCount": 53.59, 
+                    "areaHanzi": "市南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101271347.html", 
+                    "subAreaHanzi": "北仲", 
+                    "price": 97.0, 
+                    "unitPrice": 18101
+                }
+            ]
+        }, 
+        "shibei": {
+            "2017.05.18": [
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103092641840.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }
+            ], 
+            "2017.05.19": [
+                {
+                    "houseAreaCount": 67.57, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101312832.html", 
+                    "subAreaHanzi": "错埠岭", 
+                    "price": 170.0, 
+                    "unitPrice": 25160
+                }, 
+                {
+                    "houseAreaCount": 112.6, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101309936.html", 
+                    "subAreaHanzi": "合肥路佳世客", 
+                    "price": 278.0, 
+                    "unitPrice": 24690
+                }, 
+                {
+                    "houseAreaCount": 53.52, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101120526.html", 
+                    "subAreaHanzi": "同安路", 
+                    "price": 90.0, 
+                    "unitPrice": 16817
+                }
+            ], 
+            "2017.05.09": [
+                {
+                    "houseAreaCount": 67.57, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101122683.html", 
+                    "subAreaHanzi": "错埠岭", 
+                    "price": 170.0, 
+                    "unitPrice": 25160
+                }, 
+                {
+                    "houseAreaCount": 67.57, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101193304.html", 
+                    "subAreaHanzi": "错埠岭", 
+                    "price": 170.0, 
+                    "unitPrice": 25160
+                }, 
+                {
+                    "houseAreaCount": 91.0, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101258272.html", 
+                    "subAreaHanzi": "台东", 
+                    "price": 227.0, 
+                    "unitPrice": 24946
+                }
+            ], 
+            "2017.05.08": [
+                {
+                    "houseAreaCount": 67.57, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101262882.html", 
+                    "subAreaHanzi": "错埠岭", 
+                    "price": 170.0, 
+                    "unitPrice": 25160
+                }, 
+                {
+                    "houseAreaCount": 91.0, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101109145.html", 
+                    "subAreaHanzi": "台东", 
+                    "price": 227.0, 
+                    "unitPrice": 24946
+                }
+            ], 
+            "2017.05.10": [
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101246748.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }, 
+                {
+                    "houseAreaCount": 38.87, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101163484.html", 
+                    "subAreaHanzi": "浮山后", 
+                    "price": 63.0, 
+                    "unitPrice": 16208
+                }, 
+                {
+                    "houseAreaCount": 53.52, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101250065.html", 
+                    "subAreaHanzi": "同安路", 
+                    "price": 90.0, 
+                    "unitPrice": 16817
+                }, 
+                {
+                    "houseAreaCount": 53.52, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101128079.html", 
+                    "subAreaHanzi": "同安路", 
+                    "price": 90.0, 
+                    "unitPrice": 16817
+                }, 
+                {
+                    "houseAreaCount": 53.52, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101263342.html", 
+                    "subAreaHanzi": "同安路", 
+                    "price": 90.0, 
+                    "unitPrice": 16817
+                }, 
+                {
+                    "houseAreaCount": 53.52, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101286828.html", 
+                    "subAreaHanzi": "同安路", 
+                    "price": 90.0, 
+                    "unitPrice": 16817
+                }, 
+                {
+                    "houseAreaCount": 91.0, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101282221.html", 
+                    "subAreaHanzi": "台东", 
+                    "price": 227.0, 
+                    "unitPrice": 24946
+                }, 
+                {
+                    "houseAreaCount": 91.0, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101153000.html", 
+                    "subAreaHanzi": "台东", 
+                    "price": 227.0, 
+                    "unitPrice": 24946
+                }, 
+                {
+                    "houseAreaCount": 91.0, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101175183.html", 
+                    "subAreaHanzi": "台东", 
+                    "price": 227.0, 
+                    "unitPrice": 24946
+                }
+            ], 
+            "2017.05.11": [
+                {
+                    "houseAreaCount": 67.57, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101119785.html", 
+                    "subAreaHanzi": "错埠岭", 
+                    "price": 170.0, 
+                    "unitPrice": 25160
+                }, 
+                {
+                    "houseAreaCount": 53.52, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101092034.html", 
+                    "subAreaHanzi": "同安路", 
+                    "price": 90.0, 
+                    "unitPrice": 16817
+                }, 
+                {
+                    "houseAreaCount": 91.0, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101253902.html", 
+                    "subAreaHanzi": "台东", 
+                    "price": 227.0, 
+                    "unitPrice": 24946
+                }
+            ], 
+            "2017.05.12": [
+                {
+                    "houseAreaCount": 67.57, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101184904.html", 
+                    "subAreaHanzi": "错埠岭", 
+                    "price": 170.0, 
+                    "unitPrice": 25160
+                }, 
+                {
+                    "houseAreaCount": 112.6, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100912963.html", 
+                    "subAreaHanzi": "合肥路佳世客", 
+                    "price": 278.0, 
+                    "unitPrice": 24690
+                }, 
+                {
+                    "houseAreaCount": 38.87, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101254613.html", 
+                    "subAreaHanzi": "浮山后", 
+                    "price": 63.0, 
+                    "unitPrice": 16208
+                }
+            ], 
+            "2017.05.13": [
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101301040.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }, 
+                {
+                    "houseAreaCount": 85.61, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101222239.html", 
+                    "subAreaHanzi": "福州北路", 
+                    "price": 180.5, 
+                    "unitPrice": 21084
+                }
+            ], 
+            "2017.05.14": [
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101257828.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }, 
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101074265.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }, 
+                {
+                    "houseAreaCount": 85.61, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101204449.html", 
+                    "subAreaHanzi": "福州北路", 
+                    "price": 180.5, 
+                    "unitPrice": 21084
+                }
+            ], 
+            "2017.05.15": [
+                {
+                    "houseAreaCount": 67.57, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101298083.html", 
+                    "subAreaHanzi": "错埠岭", 
+                    "price": 170.0, 
+                    "unitPrice": 25160
+                }, 
+                {
+                    "houseAreaCount": 67.57, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101194120.html", 
+                    "subAreaHanzi": "错埠岭", 
+                    "price": 170.0, 
+                    "unitPrice": 25160
+                }, 
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101263590.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }, 
+                {
+                    "houseAreaCount": 85.61, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101268515.html", 
+                    "subAreaHanzi": "福州北路", 
+                    "price": 180.5, 
+                    "unitPrice": 21084
+                }
+            ], 
+            "2017.05.16": [
+                {
+                    "houseAreaCount": 53.52, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101126395.html", 
+                    "subAreaHanzi": "同安路", 
+                    "price": 90.0, 
+                    "unitPrice": 16817
+                }, 
+                {
+                    "houseAreaCount": 91.0, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101288057.html", 
+                    "subAreaHanzi": "台东", 
+                    "price": 227.0, 
+                    "unitPrice": 24946
+                }
+            ], 
+            "2017.05.17": [
+                {
+                    "houseAreaCount": 67.57, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101212300.html", 
+                    "subAreaHanzi": "错埠岭", 
+                    "price": 170.0, 
+                    "unitPrice": 25160
+                }, 
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101304231.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }, 
+                {
+                    "houseAreaCount": 53.52, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101247782.html", 
+                    "subAreaHanzi": "同安路", 
+                    "price": 90.0, 
+                    "unitPrice": 16817
+                }
+            ], 
+            "2017.05.07": [
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101189189.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }, 
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101270679.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }
+            ], 
+            "2017.05.02": [
+                {
+                    "houseAreaCount": 67.57, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101064376.html", 
+                    "subAreaHanzi": "错埠岭", 
+                    "price": 170.0, 
+                    "unitPrice": 25160
+                }, 
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101261259.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }, 
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101236211.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }, 
+                {
+                    "houseAreaCount": 85.61, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101182429.html", 
+                    "subAreaHanzi": "福州北路", 
+                    "price": 180.5, 
+                    "unitPrice": 21084
+                }
+            ], 
+            "2017.05.06": [
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100793104.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }, 
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101255554.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }, 
+                {
+                    "houseAreaCount": 78.18, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101259338.html", 
+                    "subAreaHanzi": "海泊河", 
+                    "price": 96.2, 
+                    "unitPrice": 12305
+                }, 
+                {
+                    "houseAreaCount": 53.52, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101171441.html", 
+                    "subAreaHanzi": "同安路", 
+                    "price": 90.0, 
+                    "unitPrice": 16817
+                }
+            ], 
+            "2017.05.05": [
+                {
+                    "houseAreaCount": 67.57, 
+                    "areaHanzi": "市北", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101042158.html", 
+                    "subAreaHanzi": "错埠岭", 
+                    "price": 170.0, 
+                    "unitPrice": 25160
+                }
+            ]
+        }, 
+        "laixi": {}, 
+        "jimo": {}, 
+        "sifang": {
+            "2017.05.18": [
+                {
+                    "houseAreaCount": 64.15, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101235803.html", 
+                    "subAreaHanzi": "闫家山", 
+                    "price": 101.0, 
+                    "unitPrice": 15745
+                }
+            ], 
+            "2017.05.19": [
+                {
+                    "houseAreaCount": 86.53, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101067483.html", 
+                    "subAreaHanzi": "海云庵", 
+                    "price": 172.0, 
+                    "unitPrice": 19878
+                }
+            ], 
+            "2017.05.04": [
+                {
+                    "houseAreaCount": 63.27, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101180871.html", 
+                    "subAreaHanzi": "理工大学", 
+                    "price": 121.3, 
+                    "unitPrice": 19172
+                }
+            ], 
+            "2017.05.09": [
+                {
+                    "houseAreaCount": 89.0, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101211518.html", 
+                    "subAreaHanzi": "北岭", 
+                    "price": 216.0, 
+                    "unitPrice": 24270
+                }
+            ], 
+            "2017.05.08": [
+                {
+                    "houseAreaCount": 92.09, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100953976.html", 
+                    "subAreaHanzi": "新都心", 
+                    "price": 280.0, 
+                    "unitPrice": 30406
+                }, 
+                {
+                    "houseAreaCount": 64.15, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101249572.html", 
+                    "subAreaHanzi": "闫家山", 
+                    "price": 101.0, 
+                    "unitPrice": 15745
+                }
+            ], 
+            "2017.05.10": [
+                {
+                    "houseAreaCount": 92.09, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101280964.html", 
+                    "subAreaHanzi": "新都心", 
+                    "price": 280.0, 
+                    "unitPrice": 30406
+                }, 
+                {
+                    "houseAreaCount": 80.89, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101273642.html", 
+                    "subAreaHanzi": "大沙路", 
+                    "price": 175.0, 
+                    "unitPrice": 21635
+                }
+            ], 
+            "2017.05.06": [
+                {
+                    "houseAreaCount": 62.94, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101265198.html", 
+                    "subAreaHanzi": "四方实验小区", 
+                    "price": 112.5, 
+                    "unitPrice": 17875
+                }
+            ], 
+            "2017.05.12": [
+                {
+                    "houseAreaCount": 86.53, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101133926.html", 
+                    "subAreaHanzi": "海云庵", 
+                    "price": 172.0, 
+                    "unitPrice": 19878
+                }, 
+                {
+                    "houseAreaCount": 63.27, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101246631.html", 
+                    "subAreaHanzi": "理工大学", 
+                    "price": 121.3, 
+                    "unitPrice": 19172
+                }
+            ], 
+            "2017.05.13": [
+                {
+                    "houseAreaCount": 86.53, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101167386.html", 
+                    "subAreaHanzi": "海云庵", 
+                    "price": 172.0, 
+                    "unitPrice": 19878
+                }, 
+                {
+                    "houseAreaCount": 92.09, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101235037.html", 
+                    "subAreaHanzi": "新都心", 
+                    "price": 280.0, 
+                    "unitPrice": 30406
+                }
+            ], 
+            "2017.05.14": [
+                {
+                    "houseAreaCount": 86.53, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101305362.html", 
+                    "subAreaHanzi": "海云庵", 
+                    "price": 172.0, 
+                    "unitPrice": 19878
+                }, 
+                {
+                    "houseAreaCount": 64.73, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101141583.html", 
+                    "subAreaHanzi": "水清沟", 
+                    "price": 40.0, 
+                    "unitPrice": 6180
+                }, 
+                {
+                    "houseAreaCount": 80.89, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101219241.html", 
+                    "subAreaHanzi": "大沙路", 
+                    "price": 175.0, 
+                    "unitPrice": 21635
+                }
+            ], 
+            "2017.05.15": [
+                {
+                    "houseAreaCount": 86.53, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101254277.html", 
+                    "subAreaHanzi": "海云庵", 
+                    "price": 172.0, 
+                    "unitPrice": 19878
+                }, 
+                {
+                    "houseAreaCount": 63.27, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101302243.html", 
+                    "subAreaHanzi": "理工大学", 
+                    "price": 121.3, 
+                    "unitPrice": 19172
+                }
+            ], 
+            "2017.05.16": [
+                {
+                    "houseAreaCount": 86.53, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101258249.html", 
+                    "subAreaHanzi": "海云庵", 
+                    "price": 172.0, 
+                    "unitPrice": 19878
+                }, 
+                {
+                    "houseAreaCount": 86.53, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101231279.html", 
+                    "subAreaHanzi": "海云庵", 
+                    "price": 172.0, 
+                    "unitPrice": 19878
+                }, 
+                {
+                    "houseAreaCount": 64.73, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101258382.html", 
+                    "subAreaHanzi": "水清沟", 
+                    "price": 40.0, 
+                    "unitPrice": 6180
+                }, 
+                {
+                    "houseAreaCount": 92.09, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101013865.html", 
+                    "subAreaHanzi": "新都心", 
+                    "price": 280.0, 
+                    "unitPrice": 30406
+                }
+            ], 
+            "2017.05.17": [
+                {
+                    "houseAreaCount": 86.53, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101270171.html", 
+                    "subAreaHanzi": "海云庵", 
+                    "price": 172.0, 
+                    "unitPrice": 19878
+                }, 
+                {
+                    "houseAreaCount": 64.73, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101315728.html", 
+                    "subAreaHanzi": "水清沟", 
+                    "price": 40.0, 
+                    "unitPrice": 6180
+                }, 
+                {
+                    "houseAreaCount": 64.73, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101270219.html", 
+                    "subAreaHanzi": "水清沟", 
+                    "price": 40.0, 
+                    "unitPrice": 6180
+                }, 
+                {
+                    "houseAreaCount": 92.09, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101183171.html", 
+                    "subAreaHanzi": "新都心", 
+                    "price": 280.0, 
+                    "unitPrice": 30406
+                }
+            ], 
+            "2017.05.11": [
+                {
+                    "houseAreaCount": 89.0, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101142083.html", 
+                    "subAreaHanzi": "北岭", 
+                    "price": 216.0, 
+                    "unitPrice": 24270
+                }
+            ], 
+            "2017.05.05": [
+                {
+                    "houseAreaCount": 80.89, 
+                    "areaHanzi": "四方", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101149088.html", 
+                    "subAreaHanzi": "大沙路", 
+                    "price": 175.0, 
+                    "unitPrice": 21635
+                }
+            ]
+        }, 
+        "jiaonan": {
+            "2017.05.18": [
+                {
+                    "houseAreaCount": 84.0, 
+                    "areaHanzi": "胶南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101175173.html", 
+                    "subAreaHanzi": "东方影都", 
+                    "price": 91.0, 
+                    "unitPrice": 10834
+                }
+            ], 
+            "2017.05.05": [
+                {
+                    "houseAreaCount": 84.0, 
+                    "areaHanzi": "胶南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101261128.html", 
+                    "subAreaHanzi": "东方影都", 
+                    "price": 91.0, 
+                    "unitPrice": 10834
+                }
+            ], 
+            "2017.05.03": [
+                {
+                    "houseAreaCount": 84.0, 
+                    "areaHanzi": "胶南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101111006.html", 
+                    "subAreaHanzi": "东方影都", 
+                    "price": 91.0, 
+                    "unitPrice": 10834
+                }
+            ], 
+            "2017.05.16": [
+                {
+                    "houseAreaCount": 84.0, 
+                    "areaHanzi": "胶南", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101118387.html", 
+                    "subAreaHanzi": "东方影都", 
+                    "price": 91.0, 
+                    "unitPrice": 10834
+                }
+            ]
+        }, 
+        "jiaozhou": {}, 
+        "licang": {
+            "2017.05.18": [
+                {
+                    "houseAreaCount": 53.69, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101198085.html", 
+                    "subAreaHanzi": "下王埠", 
+                    "price": 150.0, 
+                    "unitPrice": 27939
+                }, 
+                {
+                    "houseAreaCount": 47.0, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101319331.html", 
+                    "subAreaHanzi": "河南", 
+                    "price": 41.0, 
+                    "unitPrice": 8724
+                }
+            ], 
+            "2017.05.14": [
+                {
+                    "houseAreaCount": 88.33, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101292765.html", 
+                    "subAreaHanzi": "十梅庵", 
+                    "price": 188.0, 
+                    "unitPrice": 21284
+                }, 
+                {
+                    "houseAreaCount": 83.95, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101215528.html", 
+                    "subAreaHanzi": "东李", 
+                    "price": 110.0, 
+                    "unitPrice": 13104
+                }
+            ], 
+            "2017.05.09": [
+                {
+                    "houseAreaCount": 53.69, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101166212.html", 
+                    "subAreaHanzi": "下王埠", 
+                    "price": 150.0, 
+                    "unitPrice": 27939
+                }, 
+                {
+                    "houseAreaCount": 53.69, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100794182.html", 
+                    "subAreaHanzi": "下王埠", 
+                    "price": 150.0, 
+                    "unitPrice": 27939
+                }, 
+                {
+                    "houseAreaCount": 88.33, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100995540.html", 
+                    "subAreaHanzi": "十梅庵", 
+                    "price": 188.0, 
+                    "unitPrice": 21284
+                }
+            ], 
+            "2017.05.08": [
+                {
+                    "houseAreaCount": 83.95, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101130909.html", 
+                    "subAreaHanzi": "东李", 
+                    "price": 110.0, 
+                    "unitPrice": 13104
+                }
+            ], 
+            "2017.05.07": [
+                {
+                    "houseAreaCount": 31.0, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101179681.html", 
+                    "subAreaHanzi": "书院路", 
+                    "price": 57.0, 
+                    "unitPrice": 18388
+                }, 
+                {
+                    "houseAreaCount": 31.0, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101211568.html", 
+                    "subAreaHanzi": "书院路", 
+                    "price": 57.0, 
+                    "unitPrice": 18388
+                }, 
+                {
+                    "houseAreaCount": 91.65, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101278926.html", 
+                    "subAreaHanzi": "流亭", 
+                    "price": 150.0, 
+                    "unitPrice": 16367
+                }
+            ], 
+            "2017.05.06": [
+                {
+                    "houseAreaCount": 31.0, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101119220.html", 
+                    "subAreaHanzi": "书院路", 
+                    "price": 57.0, 
+                    "unitPrice": 18388
+                }, 
+                {
+                    "houseAreaCount": 53.69, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101153668.html", 
+                    "subAreaHanzi": "下王埠", 
+                    "price": 150.0, 
+                    "unitPrice": 27939
+                }, 
+                {
+                    "houseAreaCount": 88.33, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101241238.html", 
+                    "subAreaHanzi": "十梅庵", 
+                    "price": 188.0, 
+                    "unitPrice": 21284
+                }
+            ], 
+            "2017.05.12": [
+                {
+                    "houseAreaCount": 53.69, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101281756.html", 
+                    "subAreaHanzi": "下王埠", 
+                    "price": 150.0, 
+                    "unitPrice": 27939
+                }
+            ], 
+            "2017.05.04": [
+                {
+                    "houseAreaCount": 53.69, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101088699.html", 
+                    "subAreaHanzi": "下王埠", 
+                    "price": 150.0, 
+                    "unitPrice": 27939
+                }, 
+                {
+                    "houseAreaCount": 83.95, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101234481.html", 
+                    "subAreaHanzi": "东李", 
+                    "price": 110.0, 
+                    "unitPrice": 13104
+                }
+            ], 
+            "2017.05.03": [
+                {
+                    "houseAreaCount": 31.0, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101249919.html", 
+                    "subAreaHanzi": "书院路", 
+                    "price": 57.0, 
+                    "unitPrice": 18388
+                }, 
+                {
+                    "houseAreaCount": 88.33, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101223727.html", 
+                    "subAreaHanzi": "十梅庵", 
+                    "price": 188.0, 
+                    "unitPrice": 21284
+                }, 
+                {
+                    "houseAreaCount": 88.0, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101252802.html", 
+                    "subAreaHanzi": "李村公园", 
+                    "price": 167.0, 
+                    "unitPrice": 18978
+                }, 
+                {
+                    "houseAreaCount": 88.0, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101254168.html", 
+                    "subAreaHanzi": "李村公园", 
+                    "price": 167.0, 
+                    "unitPrice": 18978
+                }
+            ], 
+            "2017.05.02": [
+                {
+                    "houseAreaCount": 31.0, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101189945.html", 
+                    "subAreaHanzi": "书院路", 
+                    "price": 57.0, 
+                    "unitPrice": 18388
+                }, 
+                {
+                    "houseAreaCount": 88.33, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101193540.html", 
+                    "subAreaHanzi": "十梅庵", 
+                    "price": 188.0, 
+                    "unitPrice": 21284
+                }
+            ], 
+            "2017.05.16": [
+                {
+                    "houseAreaCount": 53.69, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101171793.html", 
+                    "subAreaHanzi": "下王埠", 
+                    "price": 150.0, 
+                    "unitPrice": 27939
+                }, 
+                {
+                    "houseAreaCount": 91.65, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101311755.html", 
+                    "subAreaHanzi": "流亭", 
+                    "price": 150.0, 
+                    "unitPrice": 16367
+                }, 
+                {
+                    "houseAreaCount": 83.95, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100918784.html", 
+                    "subAreaHanzi": "东李", 
+                    "price": 110.0, 
+                    "unitPrice": 13104
+                }, 
+                {
+                    "houseAreaCount": 88.0, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101312314.html", 
+                    "subAreaHanzi": "李村公园", 
+                    "price": 167.0, 
+                    "unitPrice": 18978
+                }
+            ], 
+            "2017.05.10": [
+                {
+                    "houseAreaCount": 88.33, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101249957.html", 
+                    "subAreaHanzi": "十梅庵", 
+                    "price": 188.0, 
+                    "unitPrice": 21284
+                }
+            ], 
+            "2017.05.11": [
+                {
+                    "houseAreaCount": 88.0, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101256767.html", 
+                    "subAreaHanzi": "李村公园", 
+                    "price": 167.0, 
+                    "unitPrice": 18978
+                }
+            ], 
+            "2017.05.05": [
+                {
+                    "houseAreaCount": 88.33, 
+                    "areaHanzi": "李沧", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101254295.html", 
+                    "subAreaHanzi": "十梅庵", 
+                    "price": 188.0, 
+                    "unitPrice": 21284
+                }
+            ]
+        }, 
+        "laoshan": {
+            "2017.05.18": [
+                {
+                    "houseAreaCount": 106.88, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100729640.html", 
+                    "subAreaHanzi": "西姜", 
+                    "price": 225.0, 
+                    "unitPrice": 21052
+                }
+            ], 
+            "2017.05.19": [
+                {
+                    "houseAreaCount": 67.84, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101086744.html", 
+                    "subAreaHanzi": "枣儿山", 
+                    "price": 100.7, 
+                    "unitPrice": 14844
+                }, 
+                {
+                    "houseAreaCount": 58.67, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101309553.html", 
+                    "subAreaHanzi": "北村", 
+                    "price": 143.0, 
+                    "unitPrice": 24374
+                }, 
+                {
+                    "houseAreaCount": 138.0, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101102578.html", 
+                    "subAreaHanzi": "石老人", 
+                    "price": 430.0, 
+                    "unitPrice": 31160
+                }
+            ], 
+            "2017.05.09": [
+                {
+                    "houseAreaCount": 158.59, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100960150.html", 
+                    "subAreaHanzi": "颐中体育场", 
+                    "price": 453.8, 
+                    "unitPrice": 28615
+                }
+            ], 
+            "2017.05.08": [
+                {
+                    "houseAreaCount": 58.67, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101100711.html", 
+                    "subAreaHanzi": "北村", 
+                    "price": 143.0, 
+                    "unitPrice": 24374
+                }
+            ], 
+            "2017.05.10": [
+                {
+                    "houseAreaCount": 106.88, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101085236.html", 
+                    "subAreaHanzi": "西姜", 
+                    "price": 225.0, 
+                    "unitPrice": 21052
+                }, 
+                {
+                    "houseAreaCount": 58.67, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101214467.html", 
+                    "subAreaHanzi": "北村", 
+                    "price": 143.0, 
+                    "unitPrice": 24374
+                }
+            ], 
+            "2017.05.11": [
+                {
+                    "houseAreaCount": 158.59, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101177482.html", 
+                    "subAreaHanzi": "颐中体育场", 
+                    "price": 453.8, 
+                    "unitPrice": 28615
+                }
+            ], 
+            "2017.05.05": [
+                {
+                    "houseAreaCount": 158.59, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101249807.html", 
+                    "subAreaHanzi": "颐中体育场", 
+                    "price": 453.8, 
+                    "unitPrice": 28615
+                }
+            ], 
+            "2017.05.14": [
+                {
+                    "houseAreaCount": 158.59, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101108118.html", 
+                    "subAreaHanzi": "颐中体育场", 
+                    "price": 453.8, 
+                    "unitPrice": 28615
+                }
+            ], 
+            "2017.05.02": [
+                {
+                    "houseAreaCount": 158.59, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101197661.html", 
+                    "subAreaHanzi": "颐中体育场", 
+                    "price": 453.8, 
+                    "unitPrice": 28615
+                }
+            ], 
+            "2017.05.17": [
+                {
+                    "houseAreaCount": 67.84, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101224219.html", 
+                    "subAreaHanzi": "枣儿山", 
+                    "price": 100.7, 
+                    "unitPrice": 14844
+                }, 
+                {
+                    "houseAreaCount": 106.88, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100729627.html", 
+                    "subAreaHanzi": "西姜", 
+                    "price": 225.0, 
+                    "unitPrice": 21052
+                }
+            ], 
+            "2017.05.07": [
+                {
+                    "houseAreaCount": 58.67, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101162057.html", 
+                    "subAreaHanzi": "北村", 
+                    "price": 143.0, 
+                    "unitPrice": 24374
+                }
+            ], 
+            "2017.05.03": [
+                {
+                    "houseAreaCount": 158.59, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101150857.html", 
+                    "subAreaHanzi": "颐中体育场", 
+                    "price": 453.8, 
+                    "unitPrice": 28615
+                }
+            ], 
+            "2017.05.12": [
+                {
+                    "houseAreaCount": 95.0, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103100962828.html", 
+                    "subAreaHanzi": "雕塑园", 
+                    "price": 440.0, 
+                    "unitPrice": 46316
+                }, 
+                {
+                    "houseAreaCount": 164.0, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101140107.html", 
+                    "subAreaHanzi": "崂山CBD", 
+                    "price": 437.8, 
+                    "unitPrice": 26696
+                }
+            ], 
+            "2017.05.15": [
+                {
+                    "houseAreaCount": 58.67, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103101232017.html", 
+                    "subAreaHanzi": "北村", 
+                    "price": 143.0, 
+                    "unitPrice": 24374
+                }, 
+                {
+                    "houseAreaCount": 95.0, 
+                    "areaHanzi": "崂山", 
+                    "url": "https://qd.lianjia.com/chengjiao/103089732481.html", 
+                    "subAreaHanzi": "雕塑园", 
+                    "price": 440.0, 
+                    "unitPrice": 46316
+                }
+            ]
+        }
+    }
+}
