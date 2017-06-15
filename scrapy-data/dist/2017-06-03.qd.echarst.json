@@ -1,0 +1,407 @@
+{
+    "areaCount": [
+        {
+            "type": "line", 
+            "stack": "huangdao", 
+            "data": [
+                [
+                    "2017.05", 
+                    7914.979999999995
+                ]
+            ], 
+            "name": "黄岛", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "chengyang", 
+            "data": [
+                [
+                    "2017.05", 
+                    983.27
+                ]
+            ], 
+            "name": "城阳", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "shinan", 
+            "data": [
+                [
+                    "2017.05", 
+                    3307.139999999999
+                ]
+            ], 
+            "name": "市南", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "shibei", 
+            "data": [
+                [
+                    "2017.05", 
+                    3601.8499999999995
+                ]
+            ], 
+            "name": "市北", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "sifang", 
+            "data": [
+                [
+                    "2017.05", 
+                    2213.3299999999995
+                ]
+            ], 
+            "name": "四方", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "jiaonan", 
+            "data": [
+                [
+                    "2017.05", 
+                    336.0
+                ]
+            ], 
+            "name": "胶南", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "licang", 
+            "data": [
+                [
+                    "2017.05", 
+                    2067.2400000000002
+                ]
+            ], 
+            "name": "李沧", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "laoshan", 
+            "data": [
+                [
+                    "2017.05", 
+                    2193.2099999999996
+                ]
+            ], 
+            "name": "崂山", 
+            "smooth": true
+        }
+    ], 
+    "dealCount": [
+        {
+            "type": "line", 
+            "stack": "huangdao", 
+            "data": [
+                [
+                    "2017.05", 
+                    71
+                ]
+            ], 
+            "name": "黄岛", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "chengyang", 
+            "data": [
+                [
+                    "2017.05", 
+                    11
+                ]
+            ], 
+            "name": "城阳", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "shinan", 
+            "data": [
+                [
+                    "2017.05", 
+                    43
+                ]
+            ], 
+            "name": "市南", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "shibei", 
+            "data": [
+                [
+                    "2017.05", 
+                    49
+                ]
+            ], 
+            "name": "市北", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "sifang", 
+            "data": [
+                [
+                    "2017.05", 
+                    28
+                ]
+            ], 
+            "name": "四方", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "jiaonan", 
+            "data": [
+                [
+                    "2017.05", 
+                    4
+                ]
+            ], 
+            "name": "胶南", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "licang", 
+            "data": [
+                [
+                    "2017.05", 
+                    30
+                ]
+            ], 
+            "name": "李沧", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "laoshan", 
+            "data": [
+                [
+                    "2017.05", 
+                    20
+                ]
+            ], 
+            "name": "崂山", 
+            "smooth": true
+        }
+    ], 
+    "unitAreaPrice": [
+        {
+            "type": "line", 
+            "stack": "huangdao", 
+            "data": [
+                [
+                    "2017.05", 
+                    1.35
+                ]
+            ], 
+            "name": "黄岛", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "chengyang", 
+            "data": [
+                [
+                    "2017.05", 
+                    1.14
+                ]
+            ], 
+            "name": "城阳", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "shinan", 
+            "data": [
+                [
+                    "2017.05", 
+                    2.42
+                ]
+            ], 
+            "name": "市南", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "shibei", 
+            "data": [
+                [
+                    "2017.05", 
+                    1.95
+                ]
+            ], 
+            "name": "市北", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "sifang", 
+            "data": [
+                [
+                    "2017.05", 
+                    2.07
+                ]
+            ], 
+            "name": "四方", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "jiaonan", 
+            "data": [
+                [
+                    "2017.05", 
+                    1.08
+                ]
+            ], 
+            "name": "胶南", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "licang", 
+            "data": [
+                [
+                    "2017.05", 
+                    1.98
+                ]
+            ], 
+            "name": "李沧", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "laoshan", 
+            "data": [
+                [
+                    "2017.05", 
+                    2.76
+                ]
+            ], 
+            "name": "崂山", 
+            "smooth": true
+        }
+    ], 
+    "areaNameList": [
+        "黄岛", 
+        "城阳", 
+        "市南", 
+        "市北", 
+        "四方", 
+        "胶南", 
+        "李沧", 
+        "崂山"
+    ], 
+    "monthList": [
+        "2017.05"
+    ], 
+    "unitPrice": [
+        {
+            "type": "line", 
+            "stack": "huangdao", 
+            "data": [
+                [
+                    "2017.05", 
+                    1.34
+                ]
+            ], 
+            "name": "黄岛", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "chengyang", 
+            "data": [
+                [
+                    "2017.05", 
+                    1.14
+                ]
+            ], 
+            "name": "城阳", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "shinan", 
+            "data": [
+                [
+                    "2017.05", 
+                    2.37
+                ]
+            ], 
+            "name": "市南", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "shibei", 
+            "data": [
+                [
+                    "2017.05", 
+                    1.92
+                ]
+            ], 
+            "name": "市北", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "sifang", 
+            "data": [
+                [
+                    "2017.05", 
+                    1.99
+                ]
+            ], 
+            "name": "四方", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "jiaonan", 
+            "data": [
+                [
+                    "2017.05", 
+                    1.08
+                ]
+            ], 
+            "name": "胶南", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "licang", 
+            "data": [
+                [
+                    "2017.05", 
+                    2.02
+                ]
+            ], 
+            "name": "李沧", 
+            "smooth": true
+        }, 
+        {
+            "type": "line", 
+            "stack": "laoshan", 
+            "data": [
+                [
+                    "2017.05", 
+                    2.68
+                ]
+            ], 
+            "name": "崂山", 
+            "smooth": true
+        }
+    ]
+}

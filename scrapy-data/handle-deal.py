@@ -12,6 +12,8 @@ import os
 
 with open('./raw/2017-06-04.qd.deal.json') as json_file:
     houseDealData = json.load(json_file)
+# with open('./raw/2017-06-15.qd.deal.json') as json_file:
+#     houseDealData = json.load(json_file)
 
 # x = 0;
 # obj = {}
@@ -24,6 +26,8 @@ with open('./raw/2017-06-04.qd.deal.json') as json_file:
 # print x;
 
 # exit()
+
+houseExistDict = {}
 
 areaNameList = []
 echarsMonthDict = {}
@@ -54,14 +58,20 @@ for areaKey,areaValue in areaDealDataItems:
             continue
         if (not areaMonthData.has_key(month)):
             areaMonthData[month] = {
-                'priceCount': 0.0,
+                'priceCount': 0,
                 'houseCount': 0,
-                'unitPriceCount': 0.0,
-                'areaCount': 0.0
+                'unitPriceCount': 0,
+                'areaCount': 0
             }
             echarsMonthDict[month] = 1
         # 循环每天所有的成交，并记录到当天所在的月
         for dealItem in dateValue:
+            reMatchObj = re.search( r'[\D]*(\d+).*', dealItem['url'], re.M|re.I)
+            houseId = int(reMatchObj.group(1))
+            if (not houseExistDict.has_key(houseId)):
+                houseExistDict[houseId] = 1
+            else:
+                continue
             areaMonthData[month]['priceCount'] = areaMonthData[month]['priceCount'] + dealItem['price'];
             areaMonthData[month]['houseCount'] = areaMonthData[month]['houseCount'] + 1;
             areaMonthData[month]['unitPriceCount'] = areaMonthData[month]['unitPriceCount'] + dealItem['unitPrice'];
@@ -78,8 +88,8 @@ for areaKey,areaValue in areaDealDataItems:
         monthValue['calcAreaUnitPrice'] = calcAreaUnitPrice
         # 为echarts data添加数据
         echartsSeriesDataUnitPrice.append([monthKey, calcUnitPrice])
-        echartsSeriesDataHouseCount.append([monthKey, monthValue['houseCount']])
-        echartsSeriesDataAreaCount.append([monthKey, monthValue['areaCount']])
+        echartsSeriesDataHouseCount.append([monthKey, round(monthValue['houseCount'], 2)])
+        echartsSeriesDataAreaCount.append([monthKey, round(monthValue['areaCount'], 2)])
         echartsSeriesDataAreaUnitPrice.append([monthKey, calcAreaUnitPrice])
     # 
     echartsJson['unitAreaPrice'].append({
