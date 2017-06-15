@@ -12,8 +12,8 @@ import os
 
 with open('./raw/2017-06-04.qd.deal.json') as json_file:
     houseDealData = json.load(json_file)
-# with open('./raw/2017-06-15.qd.deal.json') as json_file:
-#     houseDealData = json.load(json_file)
+with open('./raw/2017-06-15.qd.deal.json') as json_file:
+    houseDealData2 = json.load(json_file)
 
 # x = 0;
 # obj = {}
@@ -41,13 +41,19 @@ echartsJson = {
 areaDealDataItems = houseDealData['areaDealData'].items()
 # 区域循环
 for areaKey,areaValue in areaDealDataItems:
-    areaDateDealItems = areaValue.items()
     areaName = ''
     areaMonthData = {}
     echartsSeriesDataUnitPrice = []
     echartsSeriesDataHouseCount = []
     echartsSeriesDataAreaUnitPrice = []
     echartsSeriesDataAreaCount = []
+
+    thisMonthAreaDateDealItems = houseDealData2['areaDealData'][areaKey].items()
+
+    for thisMonthDateKey, thisMonthDateValue in thisMonthAreaDateDealItems:
+        areaValue[thisMonthDateKey] = thisMonthDateValue
+
+    areaDateDealItems = areaValue.items()
     if (len(areaDateDealItems) < 1):
         continue
     # 单个区循环，每次为每天
@@ -58,10 +64,10 @@ for areaKey,areaValue in areaDealDataItems:
             continue
         if (not areaMonthData.has_key(month)):
             areaMonthData[month] = {
-                'priceCount': 0,
+                'priceCount': 0.0,
                 'houseCount': 0,
-                'unitPriceCount': 0,
-                'areaCount': 0
+                'unitPriceCount': 0.0,
+                'areaCount': 0.0
             }
             echarsMonthDict[month] = 1
         # 循环每天所有的成交，并记录到当天所在的月
